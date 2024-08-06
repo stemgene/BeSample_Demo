@@ -1,0 +1,834 @@
+|user_id|cluster|ip|date|QID11_TEXT_translated
+0|629425715|cluster1|0.0.0.0|2023-12-21|Responsible
+1|630991301|cluster1|0.0.0.0|2023-12-21|Medic. It seems that, apart from medicine, there is nothing more interesting in my life. I like cooking, namely confectionery. I like various riddles, tarot and astrology. Sometimes it seems that I am going crazy. I want to change something in my life, even though I cheat. I want to change my whole life.
+2|635691326|cluster1|0.0.0.0|2023-12-21|Responsible attitude, perfectionism, high self-requirements. I like creative activities and helping others the most
+3|1434085294|cluster1|0.0.0.0|2023-12-21|I am an optimistic person, I always believe in the best. I love my job because I can help people. I love spending time with my child, listening to music, cooking
+4|186364599|cluster1|2a02:2378:1013:b23b:b948:6463:4b85:b120|2023-12-22|Good man ?
+5|295384160|cluster1|2a02:26f7:b6c0:dd06:0:a0ae:7367:6bd|2023-12-23|"Simple, calm, decisive, responsible, kind and straightforward.
+I treat work responsibly, because money will not earn itself.
+Favorite types of activities, those in which there is no physical activity (watch something, read, play)"
+6|300969286|cluster1|0.0.0.0|2023-12-21|I study and work a lot, I also devote a lot of time to housework, because I love cleanliness, I am fond of fiction (detectives), poetry, painting, and I like science fiction series.  I love animals, I have a lot of them, I try to give everyone equal attention.
+7|315253832|cluster1|||
+8|435768513|cluster1|||
+9|281287247|cluster1|0.0.0.0|2023-12-21|I love my job
+10|360434162|cluster1|0.0.0.0|2023-12-23|Meaningless input
+11|1694521485|cluster1|0.0.0.0|2023-12-22|"I love my job very much.
+I like to read books
+I love life"
+12|1891963826|cluster1|0.0.0.0|2023-12-21|Very cool
+13|5134213674|cluster1|||
+14|251632838|cluster1|||
+15|5223706626|cluster1|0.0.0.0|2023-12-22|I want to go home
+16|284194042|cluster1|||
+17|299170959|cluster1|||
+18|318769343|cluster1|||
+19|341742741|cluster1|0.0.0.0|2023-12-21|Tired of studying. Scared of the future.
+20|5346776902|cluster1|||
+21|5354728555|cluster1|0.0.0.0|2023-12-21|A simple girl, I don't like to work at a job I don't like.
+22|350931028|cluster1|0.0.0.0|2023-12-21|"Medicine
+Animals"
+23|5477445944|cluster1|0.0.0.0|2023-12-23|"I am a mom of three children, married, full time employed teacher.
+I think I'm a nice, easy going and fun person. 
+I like spending my leisure time with my family.
+I also love sport. I do pilates, step, cardio."
+24|421902189|cluster1|||
+25|426218387|cluster1|||
+26|429222734|cluster1|||
+27|367688054|cluster1|||
+28|434831842|cluster1|0.0.0.0|2023-12-21|I like to perform medical manipulations, learn new things, communicate with colleagues and share information. In my free time I read, play games, go to the cinema.
+29|454038760|cluster1|||
+30|382534701|cluster1|||
+31|386674398|cluster1|0.0.0.0|2023-12-21|Meaningless input
+32|388071280|cluster1|0.0.0.0|2023-12-22|Meaningless input
+33|480310041|cluster1|0.0.0.0|2023-12-21|I don't want to describe
+34|483150029|cluster1|||
+35|483781828|cluster1|0.0.0.0|2023-12-22|No, thanks
+36|391276733|cluster1|||
+37|391580107|cluster1|||
+38|484337161|cluster1|||
+39|485278311|cluster1|0.0.0.0|2023-12-21|I love argument
+40|485576080|cluster1|||
+41|492033504|cluster1|0.0.0.0|2023-12-21|"I always find it difficult to describe myself. People close to me say that I am friendly, fair, and can defend my rights. Also, I am quite hot-tempered, easy to get out of a calm state.
+Now I am not satisfied with my place and working conditions. I used to find this activity easy, but now I'm burning out.
+I like to study psychology, it helps me to deal with internal issues."
+42|493829855|cluster1|||
+43|495050075|cluster1|0.0.0.0|2023-12-21|Responsible
+44|507718789|cluster1|0.0.0.0|2023-12-21|Fun, favorite activity - spending time with family
+45|524593878|cluster1|||
+46|542638011|cluster1|0.0.0.0|2023-12-21|I'm a closed person, but since the beginning of the war I've been trying to get out of my comfort zone, communicate more and achieve my goals. I love to take pictures, sometimes I can read or play video games
+47|417084553|cluster1|0.0.0.0|2023-12-23|I am a strong and independent girl, I live alone. Cheerful, kind, responsible, somewhat domineering and dominant in communication. I listen mostly to k-pop, rock and classics, but I prefer TV series. I’m resourceful at work and will always find a way to simplify a task and speed up the execution, I’m not late, I don’t bullshit, I don’t let you get on my neck. Outside of all this, I love creativity, swimming, singing and most importantly - sleeping)
+48|586309727|cluster1|||
+49|611290367|cluster1|||
+50|657634696|cluster1|||
+51|675131612|cluster1|0.0.0.0|2023-12-22|I love my work, collect records, read books
+52|680342185|cluster1|||
+53|408020964|cluster1|||
+54|410783080|cluster1|0.0.0.0|2023-12-23|I don't want to describe myself
+55|176126109|cluster1|0.0.0.0|2023-12-21|Hardworking, purposeful
+56|625350544|cluster1|0.0.0.0|2023-12-21|I am Ukrainian and I really want to live, work and develop in a free country. Next to my loved ones
+57|639981330|cluster1|78.26.242.167|2023-12-22|I like what I do. I periodically do volunteer work. For more than a year, she cooperated with the project and prepared dinners for the needy.
+58|528146653|cluster1|||
+59|549373378|cluster1|||
+60|574093890|cluster1|||
+61|320674122|cluster1|0.0.0.0|2023-12-21|Calm, I don't like intrusive people, restrained
+62|1067946630|cluster1|195.66.105.117|2023-12-21|I am kind and try to be honest with myself and others. I like to enjoy work and life. I am creative. I draw and embroider with beads.
+63|594564353|cluster1|188.163.73.5|2023-12-21|Enthusiast, skeptic, sense of humor, cynicism, empathy
+64|365440637|cluster1|0.0.0.0|2023-12-21|I enjoy doing what I like and enjoy, often in depression
+65|382077030|cluster1|0.0.0.0|2023-12-21|I like to learn new things, read, play sports, draw and listen to music
+66|410745620|cluster1|2a02:26f7:b6c0:dd06:0:a0ae:7367:6bd|2023-12-23|Graduated from Odesa National Medical University in 2020. I work as a gynecologist
+67|536558075|cluster1|0.0.0.0|2023-12-21|I really like two fields: music and psychology. As a way of earning in the future, I chose psychology, I have now graduated from university and plan to become a psychotherapist in the future. I really like to think and I have the potential for this activity. Music is a hobby for me to relax. I also love animals and support shelters. At home, I have a cat that I took from the street, a snail and a hamster. People close to me describe me as a very kind and empathetic person. I have a boyfriend with whom we are thinking about a future together. We are planning a wedding and children. The kitten is like our first child together. I was diagnosed with anxiety-depressive disorder, which was diagnosed by a psychiatrist before the war. At the moment, I am in the active phase of therapy and strive for a sustainable remission.
+68|563149319|cluster1|0.0.0.0|2023-12-21|Administration
+69|612573384|cluster1|0.0.0.0|2023-12-21|Responsible at work. But I like more lively work. I like to sing and learn something new
+70|782193165|cluster1|0.0.0.0|2023-12-21|I am a hardworking person, responsible, punctual. I really like medicine and plan to further develop in it
+71|801460642|cluster1|0.0.0.0|2023-12-21|Don't want
+72|808199487|cluster1|||
+73|835723566|cluster1|||
+74|903871827|cluster1|78.26.198.239|2023-12-21|Decency, punctuality. I love making people happy
+75|995193342|cluster1|||
+76|1042938883|cluster1|0.0.0.0|2023-12-24|Caring
+77|1049461255|cluster1|||
+78|1058701836|cluster1|0.0.0.0|2023-12-23|I am a responsible, purposeful person. I like to cook, maintain cleanliness and order in my own home. And I also like to grow indoor and garden flowers.
+79|1086669139|cluster1|||
+80|1129193344|cluster1|0.0.0.0|2023-12-21|"Responsible, purposeful
+I want to learn new things and go to the goal"
+81|1148332234|cluster1|||
+82|1264713317|cluster1|||
+83|1337318253|cluster1|78.26.242.167|2023-12-24|I will say that while working as a middle manager in a Ukrainian bank, I could not afford to eat as well, dress well and travel as I do now working in a warehouse in Israel. I love the sea, dogs and fitness.
+84|1372066640|cluster1|0.0.0.0|2023-12-21|The man is a machine, he started it and plows all the time. I want to relax at least sometimes)))
+85|5533869236|cluster1|||
+86|5741468602|cluster1|||
+87|6012033487|cluster1|||
+88|6538647603|cluster1|||
+89|6860855895|cluster1|||
+90|1213457005|cluster1|188.163.100.221|2023-12-24|I'm smart and cool
+91|1000075743|cluster1|2a02:2378:1013:b23b:b948:6463:4b85:b120|2023-12-24|I am calm, slow, lazy, but I can work hard when needed. I like to watch movies and anime, I go swimming
+92|737016829|cluster1|0.0.0.0|2023-12-24|I am a 15-year-old schoolgirl who enjoys music, playing the guitar, drawing and learning languages. I hope to enter medical school at the Faculty of Dentistry
+93|851453960|cluster1|0.0.0.0|2023-12-24|I'm too shy, too lazy, I don't take responsibility for studying.
+94|965809510|cluster1|||
+95|988040540|cluster1|||
+96|1256257183|cluster1|0.0.0.0|2023-12-24|Oooooh
+97|6063514957|cluster1|0.0.0.0|2023-12-24|Meaningless input
+98|311921572|cluster1|0.0.0.0|2023-12-20|I am a very intelligent, hardworking and talented person. A good doctor in the future. This is my hobby and favorite thing
+99|716867449|cluster1|||
+100|417084553|cluster1|0.0.0.0|2023-12-23|I am a strong and independent girl, I live alone. Cheerful, kind, responsible, somewhat domineering and dominant in communication. I listen mostly to k-pop, rock and classics, but I prefer TV series. I’m resourceful at work and will always find a way to simplify a task and speed up the execution, I’m not late, I don’t bullshit, I don’t let you get on my neck. Outside of all this, I love creativity, swimming, singing and most importantly - sleeping)
+101|1043790324|cluster2|178.136.139.28|2024-03-26|Kirill I feel very good about my job, I want to earn more money, I have no children :)
+102|886774214|cluster2|46.211.120.195|2024-04-10|My name is Tatyana, I love communication, I am not afraid of work. Thank you)
+103|948334262|cluster2|5.53.113.79|2024-04-09|I love to cook, now I’m trying to find myself in something to become financially independent!
+104|968774501|cluster2|88.155.250.160|2024-04-16|always looking for a job
+105|1114795518|cluster2|141.105.133.44|2024-04-12|It is interesting to take the survey
+106|1446933712|cluster2|178.251.111.57|2024-03-14|My mother is on maternity leave, I am looking for a job. But it is difficult because of the war
+107|1452726594|cluster2|62.122.69.31|2024-03-17|I am a responsible, Czech person who treats everything with great responsibility. I like my job. I like to read, communicate with people, learn something new
+108|1114999100|cluster2|91.193.131.77|2024-04-15|I like my job
+109|6630936137|cluster2|78.25.4.55|2024-04-13|Responsible and always ready to work
+110|1065389917|cluster2|||
+111|1538631269|cluster2|194.44.41.190|2024-03-14|I like to work and I am happy if work brings not only pleasure but also income. Despite my age, I am constantly learning
+112|5777940381|cluster2|185.247.158.145|2024-04-08|I really like fishing and walking in the fresh air.
+113|1440423241|cluster2|178.251.109.234|2024-04-11|I am sociable, I like communicating with people. I diligently perform the tasks entrusted to me. I want to earn decent money, for this I am ready to study
+114|504302034|cluster2|95.158.48.104|2024-04-15|Very attentive and hardworking, I love working online
+115|1994602313|cluster2|91.197.19.206|2024-04-01|I am creative, creative, positive and take responsibility for my work
+116|522399921|cluster2|46.200.184.117|2024-04-15|mother of two children, worked as a cook, madly love the kitchen and everything connected with it, from food to the equipment I work with, fresh air, walks bring new ideas and thoughts about the future
+117|643741632|cluster2|95.158.42.162|2024-04-13|Purposeful, fair,
+118|2025032169|cluster2|194.44.241.86|2024-03-18|Currently on maternity leave
+119|2025378412|cluster2|194.44.201.151|2024-03-19|Responsible for work, in my free time I read and watch movies
+120|1808601649|cluster2|31.128.77.201|2024-03-14|Positive, good
+121|5167867915|cluster2|141.101.14.255|2024-03-13|I'm a mother on maternity leave and I have a small child and I like to learn something new.
+122|5025602685|cluster2|188.163.16.247|2024-04-13|I like everything very much
+123|1919531245|cluster2|176.98.21.10|2024-03-31|I love what I do and it is interesting to develop further in this field.
+124|5197970190|cluster2|176.117.186.142|2024-03-20|I am a responsible and diligent person!
+125|860319898|cluster2|109.108.224.28|2024-04-16|I am a mother, I want a better future for my child, so I also spend time with my child while working. I like to cook, communicate with people. I take responsibility for my work
+126|5217190801|cluster2|193.26.13.185|2024-03-25|I am an open, sincere, hardworking person. She worked as a salesperson, took responsibility for her work. At the moment, I spend a lot of time with my child, so we make various applications and draw. I have a hobby, knitting (scarf, hat).
+127|494459057|cluster2|2003:d6:3f08:2300:248a:975f:d3f2:e7f8|2024-03-26|I love to develop, communicate, travel. I love animals and all living things.
+128|361560447|cluster2|79.143.47.53|2024-03-16|I am punctual and responsible. I like to learn something new. I am a creative person.
+129|5313047318|cluster2|188.163.42.20|2024-04-11|I know how to understand and answer any questions, communicative and purposeful person. I like communication.
+130|592661336|cluster2|46.98.138.125|2024-03-25|I am currently on maternity leave, but I am trying to work through Instagram. I enjoy selecting and selling our merchandise.
+131|611771125|cluster2|193.201.198.36|2024-04-02|I love personal space, I love to cook, the robot distracts me from bad thoughts.
+132|382935788|cluster2|78.154.163.77|2024-04-11|I am responsible, I quickly perceive information and learn quickly, I really like to gain new experience in various fields
+133|632709898|cluster2|62.16.13.137|2024-03-29|Responsible, I love communication
+134|471149441|cluster2|178.158.192.109|2024-03-22|I am a person who loves life!!! I am interested in learning something new. I love active recreation with family and friends.
+135|715582841|cluster2|46.219.205.177|2024-03-31|If I take on a job, I will see it through to the end. It's important for me to do a good job. I am attentive and diligent.
+136|716013151|cluster2|||
+137|722629489|cluster2|91.244.61.15|2024-03-18|I like reading books, photography, cooking, fairy tales, cars
+138|530385308|cluster2|91.212.173.46|2024-03-14|I am well done
+139|541977475|cluster2|46.164.150.206|2024-04-05|responsible, purposeful person, I like to read, walk in the fresh air, communicate with friends, shopping
+140|629411694|cluster2|66.249.81.70|2024-03-20|"I try to approach work creatively, take my time, take a good look at everything to understand what I'm dealing with at the moment.
+Usually it annoys someone when someone is slow, but I think it allows you to do a better job than when you rush and make a lot of mistakes."
+141|670493389|cluster2|88.155.148.134|2024-04-06|I am a very friendly person, I love communication. I love animals)
+142|671782772|cluster2|2a02:2378:1214:9765::1|2024-03-27|Responsible, honest answers
+143|715787174|cluster2|195.26.18.102|2024-03-19|Love my family. But I always try to improve my knowledge and skills. I like to travel, learn something new. But to be useful for society.
+144|757120624|cluster2|31.134.69.114|2024-03-26|Responsible, attentive, idealistic. I always diligently perform any work. I like to read, communicate with people, grow flowers, microgreens, develop in interesting directions for earnings through the Internet
+145|809273286|cluster2|178.215.168.21|2024-03-13|A Ukrainian woman who believes in the best for Ukraine and her family. I love family, friends, life. I always try to perform my duties well at work
+146|848914721|cluster2|178.133.15.242|2024-03-24|I like to study different ways of earning money online and spend a lot of time on it
+147|850070801|cluster2|188.163.42.255|2024-03-14|"I like to communicate with people.
+If there is an opportunity to help something, I help people."
+148|874927609|cluster2|77.122.167.6|2024-03-17|I love sports and want to be the best version of myself. The main motivator is myself ☺️
+149|923415398|cluster2|178.133.229.89|2024-04-03|Creative, creative. Purposeful, interested in everything new. I love nature
+150|5667731273|cluster2|188.190.79.222|2024-04-02|I am active, attentive and responsible towards any type of activity. Favorite type of activity - maintaining business pages on Instagram. I help friends and acquaintances to develop their business in this social network. I am also fond of video shooting and editing.
+151|5813081791|cluster2|5.58.210.74|2024-03-29|I am purposeful, I like to learn something new, I read a lot, I work a lot
+152|6572040231|cluster2|188.163.14.108|2024-04-06|I am sitting at home. And I really want to find a job online.
+153|7116377225|cluster2|93.170.44.93|2024-03-31|"In constant search of new forms of earning.
+Communicable
+I want to learn something new"
+154|784256204|cluster2|2a02:2378:1283:6694::1|2024-03-15|I like to bake, at the moment I am doing various tasks.
+155|607764400|cluster2|46.133.14.175|2024-03-26|I like to communicate and help. In free time, sports, recreation,
+156|879284455|cluster2|37.57.247.142|2024-03-13|I really like my job, I like helping people. She is a calm, punctual and sociable person. I like to read books, but I don't always have time for it.
+157|959605456|cluster2|188.163.12.223|2024-03-23|Hello! My name is Olya, I am the mother of a charming daughter who is 1 year and 10 months old. I am currently on maternity leave. I like to draw, embroider with beads, watch TV series and cook goodies for the family.
+158|970909964|cluster2|||
+159|975693381|cluster2|||
+160|1040216256|cluster2|176.37.162.232|2024-03-30|I love my job because it brings me pleasure
+161|1058390813|cluster2|185.59.157.162|2024-03-13|I treat my work responsibly, it is important for me to have a result. I spend my free time with my children and I like to paint pictures
+162|1074740082|cluster2|178.255.168.85|2024-03-27|I am a bona fide lover of embroidery
+163|1373824986|cluster2|193.8.47.121|2024-03-31|Communicative, purposeful, ambitious
+164|5650089579|cluster2|91.225.4.100|2024-03-26|I like to work at the computer
+165|6221620948|cluster2|||
+166|6257227763|cluster2|146.120.162.125|2024-04-04|Responsible, I like to cook, sew clothes, embroider pictures, grow flowers, do sports
+167|6649684517|cluster2|2a02:2378:102e:4280::1|2024-04-01|Responsible, competent,
+168|6848992194|cluster2|||
+169|668849234|cluster2|195.211.63.248|2024-03-07|I love psychology. I like to work with people. I love self-development
+170|1310275413|cluster3|188.163.83.11|2024-01-19|Don't want
+171|1988106760|cluster3|46.211.101.65|2024-01-13|I want to get better, go to work in my specialty and work for the good of Ukraine
+172|1697425317|cluster3|37.73.109.74|2024-01-19|It seems to me that I take too much responsibility for work. It's exhausting, but I like it when things are clear and understandable. It's the opposite with studies, I feel like I'm not trying hard enough and I'm not giving my all.
+173|5312295751|cluster3|||
+174|661753501|cluster3|||
+175|719301457|cluster3|185.185.255.26|2024-01-19|Meaningless input
+176|890122204|cluster3|188.163.82.114|2024-01-13|Got busy...
+177|6397219551|cluster3|46.211.225.83|2024-01-15|I am engaged in drawing, I love foreign languages, cooking, nature, music. Recently started skating
+178|687322778|cluster3|46.211.243.61|2024-01-13|I want to open my cafe or maybe something more, but with our salaries, without being deputies, it is impossible to do this
+179|1150920950|cluster3|||
+180|1157913227|cluster3|||
+181|452673367|cluster3|||
+182|1626891651|cluster3|46.211.248.5|2024-01-14|Nothing
+183|1680043283|cluster3|88.155.146.106|2024-01-14|I'm a classy girl. I like beer and fuck
+184|670272439|cluster3|188.163.83.56|2024-01-14|Hm
+185|707165195|cluster3|88.155.10.55|2024-01-14|Intelligent, quick learner, able to think logically, creative approach to work
+186|2074336903|cluster3|46.211.92.186|2024-01-15|I'm in finance
+187|5316177714|cluster3|46.211.244.118|2024-01-14|What counts is not public, but what I do in my free time, nothing else I can say
+188|5399223881|cluster3|46.211.234.154|2024-01-14|Ivan Shkulipa Lupar
+189|429667165|cluster3|||
+190|607811734|cluster3|||
+191|762081345|cluster3|195.225.49.20|2024-01-15|good luck
+192|591738686|cluster3|88.154.70.113|2024-01-14|An ordinary girl, she left the university and went to work as a seller to earn money. I plan to continue to grow and develop in my chosen field. Also, I don't understand why you need all this information about me. And why this survey at all. It seems to me that you are selling information on some dating sites at best) But I am not hiding anything, so I answered the truth.
+193|1005393327|cluster3|213.110.149.80|2024-01-14|"i plan change my job
+I love music and watch serials
+Mila Cunis - favorit actor"
+194|1064345298|cluster3|||
+195|1147042750|cluster3|31.144.104.124|2024-01-14|Self-improved, not afraid to overcome problems
+196|1338818992|cluster3|||
+197|5987215508|cluster3|||
+198|6013503412|cluster3|||
+199|6381735965|cluster3|46.211.253.3|2024-01-14|Nothing
+200|6590294117|cluster3|194.4.68.197|2024-01-15|I play sports, I study.
+201|5465355038|cluster3|37.57.176.214|2024-01-12|"I am very diverse. I like many things. From esotericism to creativity. Also, sometimes I have a desire to do something new, but it is difficult due to a lack of resources (time and money). To get at least something for my desires, I sometimes sign up for a job as a promoter. I don't have time for a permanent job because of my studies.
+I like to communicate with people. Therefore, working as a promoter for the time being suits me 100%."
+202|5598448896|cluster3|46.211.98.10|2024-01-15|Zhhzh
+203|420698029|cluster3|134.249.124.90|2024-01-15|Nothing comes to mind
+204|945424125|cluster3|95.158.53.15|2024-01-12|I am a calm and quite quiet person, I try to approach work and studies as responsibly as possible
+205|706040182|cluster3|95.158.17.215|2024-01-19|I love programming
+206|504595031|cluster3|88.155.141.154|2024-02-20|I am a calm person, I like to draw, sleep, eat and listen to music
+207|5163505376|cluster3|188.163.22.76|2024-02-20|I love my work, especially when you get paid for it
+208|735204037|cluster3|||
+209|635305682|cluster4|185.143.147.230|2024-03-05|I'm well done))
+210|1817861816|cluster4|213.111.71.52|2024-02-29|I treat work carefully and responsibly
+211|461320771|cluster4|188.163.40.90|2024-03-05|Born to succeed
+212|457266078|cluster4|93.178.212.83|2024-03-05|A person who wants to change and become better every day
+213|5197595189|cluster4|213.111.97.49|2024-03-06|When taking tests, I read the questions carefully, I don't rush
+214|431602795|cluster4|176.37.60.170|2024-03-08|I'm not really into studying, but I prefer playing games. However, I am hardworking and have a desire for financial independence. I love looking for online income opportunities and hope to do it full time from anywhere in the world.
+215|449334735|cluster4|2a02:2378:1064:50b3:94ca:8f84:6f3b:84fb|2024-03-05|I love my job, it's a hobby for me. In the future, I want to work in a specialty
+216|511283434|cluster4|213.111.71.249|2024-03-02|I strive for improvement
+217|455410603|cluster4|46.133.143.145|2024-03-08|All OK
+218|578965076|cluster4|95.158.3.94|2024-03-03|All OK
+219|612488700|cluster4|2a02:2378:121d:e2b2:1d50:138b:187e:7f32|2024-03-05|I love humor, I follow the principles of healthy eating and a healthy lifestyle, I have no bad habits. I am completely satisfied with my specialty and workplace. I plan to tutor English. I swim a lot. I like to walk in nature. I love dairy and fermented milk products.
+220|613446637|cluster4|31.144.144.168|2024-03-05|I’m an honest , kind person. A little close one. Like spending time with friends and relatives on the nature. Shopping is the worst thing, but I do it regularly
+221|725568214|cluster4|176.39.35.230|2024-03-05|Attentive, responsible.
+222|499580386|cluster4|46.211.239.74|2024-03-05|Shopopalo, I'm a Viking, Valhalla is waiting for us
+223|5767352903|cluster4|213.111.71.249|2024-02-29|Calm. Authorized. Without complexes. A great desire to travel and discover new emotions.
+224|5802871940|cluster4|178.94.195.128|2024-03-05|Sincere, friendly, hardworking, responsible.
+225|7022092918|cluster4|213.111.97.49|2024-03-06|I adapt quickly
+226|7126361615|cluster4|213.111.71.249|2024-03-09|Punctuality. Sincerity. Responsibility.
+227|7165512232|cluster4|213.111.71.249|2024-03-09|Very responsible
+228|933167183|cluster4|176.98.89.139|2024-03-05|I am quite a sociable person, I can develop in areas that interest me. I treat work responsibly
+229|1042015489|cluster4|188.163.43.29|2024-03-05|I'm a cool sigma, I'm afraid of women, skebede toilets drive, eshkere
+230|5133726308|cluster4|176.39.35.230|2024-03-06|Responsible, I like to play computer games
+231|473750820|cluster4|213.111.71.52|2024-02-24|I try to control my emotions, train my body and Star physically and mentally, and develop discipline.
+232|622155379|cluster5|||
+233|1813452871|cluster5|194.44.133.164|2024-03-14|Nothing is clear
+234|166513932|cluster5|46.63.98.49|2024-03-07|I am a strong, responsible, detail-oriented, creative person. I really like to draw, watch movies, learn something new
+235|5355903612|cluster5|188.190.43.111|2024-03-05|I am a very attentive person and also like to work hard
+236|695469441|cluster5|2a02:2378:126d:d054:adf6:e9a5:fb4f:5eb3|2024-03-15|Since I am involved in sports, I am very responsible for my work, I know that I need to invest my strength in order to get a result. Honest, hardworking and will try to do more.
+237|725772740|cluster5|2a02:2378:1016:8a29:b1dd:d7c2:ee6:3b78|2024-03-21|responsible attitude to work, talented
+238|5951076092|cluster5|188.190.43.111|2024-02-26|Caring, I love animals, my hobby is singing.
+239|6452784832|cluster5|188.190.43.111|2024-03-05|introvert
+240|5557870263|cluster5|81.185.161.79|2024-04-08|Punctual, fair, hardworking
+241|5819000286|cluster5|80.93.123.51|2024-03-07|I am currently looking for a job online))
+242|6331812147|cluster5|91.228.217.88|2024-03-15|Positive
+243|438851599|cluster5|0.0.0.0|2024-01-20|Responsible, purposeful, sincere.
+244|619213102|cluster6|2a02:2378:1280:144a:b4d9:c775:a33c:4e59|2024-02-20|I liked everything, I’ll be happy to take part
+245|5040247174|cluster6|0.0.0.0|2024-01-19|Self-confident person.
+246|657627455|cluster6|0.0.0.0|2024-01-19|Cheerful, open to new acquaintances
+247|704298296|cluster6|46.133.24.186|2024-02-12|I like science and I want to contribute to its development, for the sake of our future
+248|6607059188|cluster6|0.0.0.0|2024-01-19|Sports, creative activities
+249|6931817263|cluster6|46.219.99.19|2024-02-12|I see the goal, I believe in myself!!
+250|6155410635|cluster6|128.124.129.60|2024-02-16|Looks formidable and strict. But only on people. Hardworking, but has no desire to work with his hands all his life. That's why I'm thinking about the future and I'm working on my own development, so I'm getting interviews a little at a time. After all, I plan to do business and have something of my own.
+251|6784587527|cluster6|0.0.0.0|2024-01-19|It's fun
+252|1194542274|cluster6|0.0.0.0|2024-01-18|Purposeful, working productively for results. I value honesty and sincerity. Hobbies, science, psychology, sports, music, etc..
+253|818587263|cluster6|||
+254|6607059188|cluster6|0.0.0.0|2024-01-19|Sports, creative activities
+255|6659819686|cluster6|0.0.0.0|2024-01-21|Punctual, sociable, charismatic
+256|1273848861|cluster6|||
+257|1503154699|cluster7|||
+258|1652161371|cluster7|188.163.99.144|2024-02-08|I study at school, I like music, astrophysics, programming, sports, fashion, art, learning something new. I write poems and prose works. I am in love with science, so I want to take a survey. maybe I can help our country in this way. I try to be an active youth, so I participate in many initiatives.
+259|652289955|cluster7|188.65.190.67|2024-01-16|Meaningless input
+260|1796061871|cluster7|||
+261|1894351226|cluster7|46.211.115.102|2024-01-15|I'm a workaholic, I can't sit still. I constantly try to improve myself, because if I don't do it, I won't feel needed.
+262|801489657|cluster7|||
+263|1098902821|cluster7|46.133.149.157|2024-01-14|I prefer don’t share a brief introduction about myself now.
+264|791363780|cluster7|||
+265|1066085461|cluster7|89.209.53.59|2024-01-13|I love learning new things, so I try to often participate in international projects, read a lot of books and travel. I really like going to various establishments of the Dnipro, as well as to exhibitions, art galleries and museums.
+266|1909352751|cluster8|2a02:2378:120e:6650::1|2024-03-21|Good, friendly. I like my job. I am studying to be a nurse
+267|2012957091|cluster8|188.190.247.148|2024-03-15|I am a housewife, I want not to fall out of society, to be important, to develop, to learn something new. My dream is to become financially independent, to give myself and my family a better, higher-quality life.
+268|2089674059|cluster8|31.148.135.1|2024-03-25|I am a woman, mother of two children. I work without pleasure!
+269|727312630|cluster8|46.133.40.243|2024-03-28|I love learning something new, I want to improve my life, seek new knowledge
+270|826959595|cluster8|91.200.52.218|2024-03-18|I love my job
+271|766056173|cluster8|213.108.45.102|2024-03-14|A responsible, communicative, client-oriented individual who knows how to rationally allocate and effectively use his own time.
+272|991430572|cluster8|||
+273|1045905180|cluster8|||
+274|6176818872|cluster8|213.174.5.155|2024-03-07|I like to learn new directions. I have worked online for 11 years since 2015, I am an entrepreneur, thanks to my taxes I help Ukraine and my family. I am purposeful, creative and have leadership qualities. Motivator and able to work with a large number of people, delegate them.
+275|451701160|cluster9|77.22.234.65|2024-01-13|A guy who is learning to live
+276|1849996722|cluster9|88.155.137.228|2024-01-11|I like to work, sell, draw, photograph
+277|5895008754|cluster9|88.155.165.150|2024-01-12|Class
+278|6597977296|cluster9|88.155.137.228|2024-01-12|norm
+279|5663648517|cluster9|88.155.137.228|2024-01-12|norm
+280|6902217320|cluster9|88.155.137.228|2024-01-12|norm
+281|6880911657|cluster9|88.155.165.150|2024-01-12|You have a cool project!
+282|1275005576|cluster9|37.73.19.127|2024-01-12|I'm smart, I like to do art, make divisions
+283|5570299402|cluster9|46.211.232.29|2024-01-12|Don't know
+284|892214992|cluster9|88.155.137.228|2024-01-11|I play the guitar, the piano, I can create mini 3D planes and ships, since I attended courses.
+285|6778386523|cluster9|||
+286|6382561843|cluster10|188.163.114.145|2024-01-17|"As a Ukrainian, I am 20 years old and self-employed, working in social sciences. I will describe my personality as purposeful and responsible. I always try to achieve my goals and find ways of development in my field of employment.
+
+Regarding the attitude to work, I especially value responsibility and obligation. I always try to complete my work tasks with quality and on time. I am also committed to cooperation and teamwork, as I believe that teamwork can lead to better and more balanced results.
+
+As for my favorite activities, I am particularly drawn to the opportunity to influence people and society through the social sciences. I like to conduct research, analyze data and draw scientifically based conclusions. I am also very interested in communicating with people, understanding their needs and finding solutions to improve their lives.
+
+In this field of employment, I see many opportunities for personal and professional growth. I seek to explore social processes, improve my analytical thinking and communication skills, and contribute to social change for the better.
+
+Overall, I really enjoy my work in the field of social sciences and am always ready to put 100% into it. This is my vocation, and I strive to contribute to the development of our society."
+287|6731913800|cluster10|188.163.114.145|2024-01-17|"I, as a Ukrainian, 21 years old, self-employed in the field of marketing and sales, am happy to answer questions about my personality, attitude to work and favorite activities.
+
+I consider myself a purposeful, energetic and creative person. I always try to take on new projects and challenges, as this gives me the opportunity to develop and turn my ideas into reality. I am convinced that constant self-improvement and learning is the key to success in any field.
+
+I have a very positive attitude towards work. I believe that by working with enthusiasm and performing one's duties responsibly, one can achieve high results. I reflect this attention to detail, discipline and organization in my work. In addition, I consider it important to be communicative and able to work in a team, because collective cooperation helps to achieve common goals.
+
+My main field of employment in marketing and sales is my favorite activity. I love to analyze the market, develop and implement marketing strategies, do research, and communicate with potential customers and implement new sales methods. This process is always interesting and dynamic, so I appreciate the opportunity to work in this field.
+
+In general, I am a hard-working and motivated individual who works in the field of marketing and sales with great energy and enthusiasm. I believe that success is possible due to high motivation, skills and hard work, and I am always ready to make every effort to achieve my goals."
+288|6804306277|cluster10|188.163.114.145|2024-01-17|"I, as a 20-year-old Ukrainian, am looking for a job in the hotel business and tourism. Describing my personality, I can say that I am a responsible, goal-oriented and communicative person. I always follow the deadlines and try to always keep my commitments.
+
+I take my work very seriously and always try to do my best. I feel comfortable in a team and I know how to work in a group. I am open to new knowledge and skills, ready to learn and develop from professionals in the field of hotel business and tourism.
+
+My favorite activities are related to communication with people and helping them. I really enjoy creating a welcoming and comfortable atmosphere for guests, as well as providing them with knowledge and information about tourist places and points of interest. In addition, I appreciate culture and art, so cooperation with hotels that offer cultural events and excursions is also interesting for me.
+
+In general, I am ready to work in the hotel business and tourism and strive to contribute to a team that cares about the satisfaction and comfort of guests."
+289|6850206527|cluster10|188.163.114.145|2024-01-17|"I am a young Ukrainian woman who is actively engaged in social sciences. I had to spend all 20 years studying and analyzing various social phenomena and problems that significantly affect people's lives.
+
+I value my work very much and am proud to be a full part of the process of finding and solving social challenges. Every day I do research, surveys and analytics aimed at changing society for the better. My attitude to work can be characterized as responsible, professional and ambitious.
+
+Apart from my main work, I also like to research other fields of social sciences such as psychology, economics and politics. I believe that shared knowledge and a multifaceted approach to problems can achieve greater results.
+
+My favorite activities are participating in scientific conferences and seminars where I can share my research and exchange ideas with colleagues. Also, I like to read books and scientific articles, where I can find new ideas and approaches to social problems.
+
+In general, as a person, I consider myself meticulous, goal-oriented and open to new knowledge and challenges. My attention to detail and analytical skills allow me to deeply understand problems and find effective solutions."
+290|6625917427|cluster10|188.163.114.145|2024-01-17|"I, as a 19-year-old Ukrainian looking for a job in marketing and sales, would like to describe myself as a purposeful, energetic and responsible individual.
+
+I am always drawn to new challenges and opportunities, and I always try to go through life with an open mind and a willingness to learn something new. I prefer building strong relationships with people, and I consider communication and interaction with clients to be very important aspects of my work.
+
+My attitude to work can be characterized as pragmatic and mature. I believe in the importance of set goals and a systematic approach to achieving them. I have good analytical thinking and the ability to make rational decisions, which helps me solve tasks effectively.
+
+My favorite activities are developing marketing strategies, market analysis and research, and promoting a product or service on the market. I am passionate about advertising, consumer trends and buyer psychology. This allows me to understand well the needs and wants of customers and create effective strategies to attract and retain them.
+
+In this field, I want to constantly develop my skills and knowledge, participate in new projects and make an impact on the company I will work for. I have a willingness to work in a team, to perform assigned tasks in a timely and efficient manner, and to do everything possible to achieve the success of the company."
+291|6942444406|cluster10|188.163.114.145|2024-01-17|"As a Ukrainian, I am 21 years old and I work as a self-employed person in the hotel business and tourism. I will describe my personality:
+
+I consider myself a responsible and organized individual. I always set myself high standards of work and tasks, and I do everything possible to achieve them. I strive to be a professional in my field of employment and always try to improve and acquire new knowledge and skills.
+
+My attitude to work is very serious. I believe that success can only be achieved through hard work and the desire to achieve results. I always strive to perform my duties at a high level, to be proactive and effective. I can work effectively in a team and establish cooperation with colleagues to achieve common goals.
+
+My favorite activities are related to the hotel business and tourism. I like to communicate with people, provide them with quality services and do everything possible to make them feel comfortable and satisfied. I am passionate about planning and organizing trips, exploring new places and cultures. Being a part of people's travel experience and seeing them enjoy their trip is the most satisfying activity for me.
+
+In general, I am hardworking, responsible and have a positive attitude towards my work. I am ready to make the necessary efforts to achieve success and provide clients with quality services in the hotel business and tourism."
+292|6655282582|cluster10|188.163.114.145|2024-01-17|I am an active, purposeful and self-confident person. I always set high standards for myself and constantly strive for self-development and achievements. Work for me is not just a means of earning, but a real passion. I prefer to fully immerse myself in the tasks and demonstrate my skills and knowledge in the field of marketing and sales. I am sure that I can work well in a team, but I can also work effectively individually. My favorite activities include market analysis, marketing strategy development, sales planning and execution, and customer interaction and negotiation. I like to create innovative solutions that contribute to the growth of sales and business development. Tasks that require creativity and strategic thinking inspire me to achieve great results and grow professionally.
+293|6795242115|cluster10|188.163.114.145|2024-01-17|"As a 24-year-old Ukrainian with the status of ""looking for a job"" in the field of science, technology, engineering and mathematics, I have an active personality and an unlimited desire to gain new knowledge and achieve success in my professional activities.
+
+I am interested in research and solving complex problems, where I can apply my knowledge in the field of science and mathematics. I always strive to be a reliable and responsible employee, ready to work in a team or independently.
+
+My attitude to work is seriousness and responsibility. I always try to do my best to achieve my goals and achieve high results. I set high standards for myself and try to constantly improve myself and develop professionally.
+
+My favorite activity is data analysis and development of new technological solutions. I enjoy working with numerical data and interpreting it to identify patterns and develop innovative solutions. I also enjoy finding better ways to optimize processes and implement new ideas into practice.
+
+In addition, I value communication and cooperation with other specialists. I believe that coordinated teamwork allows to achieve better results and develop new ideas. I am open to mutual influence and ready to learn from other people, as well as to share my knowledge and experience with colleagues.
+
+In general, as a professional in the engineering and scientific fields, I am dedicated to achieving high results, constant self-improvement and cooperation with other specialists. My personality helps me implement new ideas, analyze complex problems and find effective solutions."
+294|6480646061|cluster10|188.163.114.145|2024-01-17|"I am an 18-year-old Ukrainian and work full-time in marketing and sales. My personality can be characterized as responsible, purposeful and thorough. I always try to make maximum efforts to achieve the set goals and objectives.
+
+I approach work with great enthusiasm and passion. It is important for me to constantly develop and improve my skills in the field of marketing and sales. I believe that success in this field depends on a creative approach, strategic thinking and the ability to adapt to changes.
+
+My favorite activities are planning and developing marketing strategies, market analysis, consumer research and new product development. I love working with people and building mutually beneficial relationships with clients and partners.
+
+In general, I am dedicated to my work and always strive to achieve the best results. I believe that my efforts and energy will turn into success and prosperity not only for me, but also for the company in which I work."
+295|6874816982|cluster10|188.163.114.145|2024-01-17|"I, as a Ukrainian living in Ukraine and 19 years old, work part-time in the field of art. My personality can be characterized as creative, responsible and goal-oriented. I always try to see opportunities for the development of my artistic talent and self-realization in my work.
+
+I have a positive attitude to work, I see it not just as an income, but as the embodiment of my ideas and creative process. I am always trying to find new ways to express my artistic property and improve my skills. Being a hardworking and goal-oriented person, I strive to achieve the maximum result from my work.
+
+Since my main field of work is art, my favorite activities are related to drawing, graphics and illustration. I enjoy the process of creating new images and realizing my ideas on canvas or paper. In addition, I am interested in activities such as design, photography and theater arts.
+
+In general, for me, work in the field of art is not just a hobby, but a real vocation that gives me satisfaction and inspiration. I am always grateful for the opportunity to realize myself in my professional activity and to bring joy to people through my creativity."
+296|6720159215|cluster10|188.163.114.145|2024-01-17|"I, as a Ukrainian, 24 years old, am self-employed in the hotel business and tourism. I can describe my personality as purposeful, responsible and friendly. I always strive to achieve my goals and fulfill my duties with the utmost care.
+
+I have a very positive attitude to work, as I believe that the hotel business and tourism is a great opportunity not only to work, but also to get to know new places, meet interesting people and communicate with them. I always try to create comfortable conditions for guests and provide them with an unforgettable experience of staying in our hotel.
+
+I notice that I especially like to study and analyze new trends in the hotel industry, work on improving service and developing innovative services for our guests. I always try to stay abreast of the latest technologies and practices, which helps me grow professionally and improve my skills.
+
+In addition, I am very interested in international tourism and the opportunity to communicate with guests from different countries of the world. Seeing them share their cultures and travel experiences allows me to expand my worldview and enjoy the diversity of our world.
+
+Overall, I am very satisfied with my work in hospitality and tourism, as it allows me to combine professional development with my personal interests and pleasures."
+297|6900135276|cluster10|188.163.114.145|2024-01-17|"As a Ukrainian, I can confidently say that I have an open and communicative attitude to work. I always try to be proactive and energetic in the performance of my duties. I can easily be recognized by my ability to adapt to changes and quickly react to unplanned situations.
+
+I feel comfortable in the field of marketing and sales. I am always interested in finding new ideas and opportunities to improve a product or service. I like to research the market, analyze the competition and develop strategies to achieve success. I know how to negotiate, be an attentive listener and find a common language with clients.
+
+In addition, I am passionate about sales psychology and the ability to build long-term mutually beneficial relationships with clients. I always try to understand the needs and desires of the client in order to offer him the best solution. This allows me to achieve high results and meet the requirements of quality service.
+
+In my spare time, I also like sports and an active lifestyle. It helps me maintain energy and be efficient at work. In addition, I value education and self-development, so I try to constantly learn new things and work on improving my skills.
+
+In general, as a self-employed person in the field of marketing and sales, my main values ​​are professionalism, responsibility and constant development. I always strive to be the best version of myself and achieve my goals at work."
+298|6491833608|cluster10|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+299|6723913136|cluster10|188.163.114.145|2024-01-17|"I am a young Ukrainian woman, I am 23 years old, and I am actively engaged in work affairs full-time. My main field of employment is information technology.
+
+Personality - I am meticulous, responsible and purposeful. I always try to achieve the best results in my work and develop professionally. At every stage of my career, I strive to improve my skills and acquire new knowledge.
+
+Attitude to work - for me, work is not just a way to earn money, but a challenge and an opportunity for growth. I am convinced that even in difficult situations there is always an opportunity to find and offer constructive solutions. I am motivated to achieve results and strive to always do everything in such a way that the achievement of the set goals is qualitative and effective.
+
+Favorite activities - one of my favorite activities is analyzing and solving problems in the field of information technology. I like to dive deep into a problem, analyze it from all sides and find effective solutions. I am also passionate about programming and developing new solutions, as it gives me the opportunity to be creative and turn my ideas into reality.
+
+In short, I am known for my energy, proactivity and desire to achieve high results at work. For me, information technology is not only a profession, but also a passion that allows me to realize my potential and bring benefit to society."
+300|5842137443|cluster10|188.163.114.145|2024-01-17|"I, as a 22-year-old Ukrainian with the employment status ""Working part-time"" in the field of retail trade, would like to answer questions about my personality, attitude to work and favorite activities.
+
+Personality: I consider myself a responsible, goal-oriented and organized person. I always try to be punctual and disciplined, following the work schedule and performing my duties at the best level. Also, I am interested in learning, I constantly strive to develop and improve my skills.
+
+Attitude to work: I believe that work not only allows me financial independence, but also helps me realize my potential. I believe that productive work is an important component of a happy and satisfied life. I take my work seriously, I always try to fulfill my duties with respect and dedication. In addition, I believe in teamwork and know how to work in a team.
+
+Favorite Activities: I am passionate about all things retail. I enjoy interacting with people, helping them find the products they need and providing good service. I am also interested in trends and new products in this field, I always try to be aware of the latest trends. In addition, I like to analyze the market and study the demand for different products, which allows me to be a more effective seller.
+
+In general, as a Ukrainian with the employment status ""Working part-time"" in retail, I value work, take it seriously and always strive to achieve high results. I am passionate about my field of activity and try to constantly grow and improve in it."
+301|6855516580|cluster10|188.163.114.145|2024-01-17|"I am a 23-year-old Ukrainian working full-time in the field of social sciences. I would describe myself as a purposeful and confident person who always tries to achieve the best results in his work. I am devoted to my profession and am always ready to make every effort to do my work well and on time.
+
+I have a positive attitude to work, I always welcome new challenges and opportunities for self-development. I believe that every task or project can be a valuable experience and the opening of new opportunities. I strive for constant self-improvement, learning and acquiring new knowledge in order to be the best in my field.
+
+As for my favorite activities, I like to conduct research and analyze data to understand societal problems and how to solve them. I am interested in working with people, conducting research in the field of sociology, psychology and political science. I also like to create strategies and recommendations for social programs and projects aimed at changing society for the better.
+
+In general, I tend to work both independently and in a team. I like to cooperate with other specialists, exchange ideas and opinions. I am always open to new challenges and ready to work on new projects to contribute to the development of social sciences and contribute to positive changes in society."
+302|6460340062|cluster10|104.28.205.21|2024-01-17|"As a young self-employed Ukrainian entrepreneur, hardworking, ambitious and purposeful, I always set high goals for myself and try to achieve them. I believe that success depends on hard work and self-discipline, so I always work with great dedication and perseverance.
+
+I have a very positive attitude towards work. I am a big fan of the hotel business and tourism, so every day at work is an opportunity for me to start a new adventure and find a way to satisfy customers. I believe that working in the hotel business is an important component of our tourist market and can create unforgettable impressions for guests of Ukraine.
+
+For me, the general favorite activity is creating a comfortable and hospitable environment for tourists. I like to feel useful and help people, whether it's providing information about local attractions or ensuring a comfortable stay at a hotel. I also enjoy directing trips and organizing excursions, where I can help people discover the beauty of Ukraine and introduce them to our culture and traditions.
+
+All this work in the hotel business and organizing tourist activities is not only my profession, but also my passion. I believe in the principle that if you do what you love, you should never work a day in your life. And I am blessed to have the opportunity to work in an industry that brings joy and satisfaction to me and my clients."
+303|6501290954|cluster10|188.163.114.145|2024-01-17|"I am a young, energetic and purposeful person. Work plays an important role in my life, and I treat it with great responsibility and professionalism. In my opinion, a career in marketing and sales is important because it is an area where I can apply my creative and analytical skills.
+
+I prefer a dynamic and competitive work environment where I can develop and achieve new goals. It is in such an environment that I feel comfortable and find inspiration to continue my professional growth.
+
+My favorite types of activities in the field of marketing and sales are the development of marketing strategies, analysis of the market and consumer behavior, creation and implementation of marketing campaigns, as well as interaction with customers. I enjoy being on the front line of customer interaction, influencing their relationship with a product or service and ensuring that their needs are met.
+
+I am always eager to learn and apply new techniques and strategies in my work. Constant self-development and updating of knowledge is an integral part of professional growth for me. Therefore, I am open to new challenges and opportunities, and I am always ready to improve my skills.
+
+Apart from work, I also value individuality and cultural diversity. I love to travel and learn new countries and cultures. Communicating with interesting people, reading books and playing sports also complement my active lifestyle."
+304|6336794865|cluster10|188.163.114.145|2024-01-17|"I am a young and energetic person from Ukraine. Working part-time in hospitality and tourism, I enjoy the opportunity to work in this exciting industry.
+
+My attitude to work is very responsible and professional. I understand that hotel business and tourism is an industry where I have to ensure a high level of customer satisfaction and satisfaction. I always strive to provide them with the best service, professional approach and unforgettable experience.
+
+Favorite activities related to my main line of work include guest services, travel planning, organizing tours and helping with customer issues. I love seeing how my efforts help people enjoy their vacations and create unforgettable memories for them. In addition, I am always happy to gain new knowledge and expand my professional skills in this field."
+305|6768817482|cluster10|104.28.205.21|2024-01-17|"I am a Ukrainian, 21 years old, looking for a job in retail, I would like to share some information about myself and my attitude towards work.
+
+Personality: I consider myself a friendly, open and communicative person who is always ready to help others. I strive to be proactive and take initiative in various situations. In addition, I have organizational skills and can manage my time effectively.
+
+Attitude towards work: I consider work an important part of my life and always treat it with responsibility and seriousness. I strive to achieve high results and am always ready to perform my duties at the best level. I value professionalism and always try to improve my skills and knowledge.
+
+Favorite activities: I have all kinds of interests in various fields of activity, but in the field of retail trade, I can't wait to dive into the world of sales and communication with customers. I like to observe new trends in retail trade, as well as study the needs of customers and find ways to satisfy them. I believe that selling products or services can be a great way to feel useful and improve people's lives.
+
+Overall, I am confident that my confidence, organization and love of retail will make me a valuable employee in this industry. I am ready to make every effort to achieve common goals and contribute to the development and prosperity of the company."
+306|6819342705|cluster10|||
+307|6980240830|cluster10|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+308|5875951195|cluster10|188.163.114.145|2024-01-17|I am Dana
+309|1405767132|cluster11|||
+310|1583014689|cluster11|||
+311|1712516733|cluster11|176.8.51.125|2024-01-23|Responsible
+312|643106407|cluster11|176.37.168.217|2024-01-17|I am on maternity leave
+313|1737806391|cluster11|46.63.115.55|2024-01-17|I love working with children of all ages. A creative and creative personality: I sew, knit, do crafts. I have been working officially for 11 years
+314|1739014130|cluster11|95.130.228.237|2024-01-13|I work full time, I love my work, punctual, responsible
+315|719738314|cluster11|5.188.6.77|2024-01-17|I sell agricultural products. I also have the education of the head of a brass band.
+316|1782923775|cluster11|176.8.51.125|2024-01-31|Responsible
+317|1907162797|cluster11|||
+318|1794709482|cluster11|95.130.228.237|2024-01-16|I work in the goods market immediately after graduating from the institute, I used to earn well, but unfortunately not now, so I am looking for another job
+319|5207448553|cluster11|||
+320|488088693|cluster11|84.234.108.188|2024-01-17|A self-sufficient modern personality. I am engaged in self-development. I like to draw, read, cook and play sports
+321|565778395|cluster11|45.12.25.131|2024-01-13|I am active and purposeful, ready for new tasks and meetings
+322|1014989558|cluster11|46.150.66.191|2024-01-15|Like reading
+323|1056006518|cluster11|195.149.108.48|2024-01-16|I am a creative person, I like to draw, hand-median, I want to find a remote job, I want to earn money but have free time for my affairs, not to be dependent on the schedule and time.
+324|6650060833|cluster11|192.162.237.36|2024-02-17|My name is Yulia, 26 years old. I have two sons
+325|703756276|cluster11|78.25.13.197|2024-01-13|Meaningless input
+326|879772367|cluster11|||
+327|933625079|cluster11|95.91.218.208|2024-01-13|Meaningless input
+328|986555111|cluster11|||
+329|5976654674|cluster11|89.209.101.251|2024-01-18|All OK
+330|6545061166|cluster11|||
+331|6557298966|cluster11|0.0.0.0|2024-01-20|I really like to work
+332|1669300480|cluster11|88.155.141.76|2024-01-24|ga
+333|942774033|cluster11|2a02:2378:1043:559d:c983:b5f5:7b03:997b|2024-02-20|i will eat
+334|1457860977|cluster11|176.120.106.105|2024-01-16|everything is cool, I am busy, active and punctual
+335|673354044|cluster11|88.154.43.203|2024-01-17|Mom is on maternity leave
+336|1983961596|cluster11|176.120.106.105|2024-01-16|I am active and cheerful
+337|1953162178|cluster11|46.211.236.53|2024-01-13|rigid, top
+338|1124522690|cluster11|31.144.225.109|2024-01-13|I'm looking for myself
+339|6668648403|cluster11|176.120.106.105|2024-01-16|everything is cool, I'm alive
+340|5607167503|cluster11|176.120.106.105|2024-01-13|Cool, I'm tall
+341|6013721077|cluster11|149.102.240.73|2024-01-17|What about me?
+342|5173135081|cluster11|176.120.106.105|2024-01-19|Screw it and write
+343|6363844603|cluster11|||
+344|691991934|cluster11|91.196.55.140|2024-01-17|Well, I am like this
+345|802623513|cluster11|88.155.167.78|2024-01-17|"I don't know what to say.
+It's just that a friend asked to go through the survey"
+346|6644129090|cluster11|185.195.232.166|2024-01-17|"I, as a Ukrainian working in the field of information technology full-time, would like to describe my personality and attitude to work.
+
+I am a purposeful, responsible and persistent person. I always have a great desire for knowledge and delving into new technologies. It is clear that this is especially important in information technology, as the industry is constantly evolving. I am always looking to improve my skills and expand my knowledge in this field.
+
+Regarding my attitude to work, I believe that work is necessary not only to provide for material needs, but also to satisfy one's professional ambitions and achieve personal development. I always set myself high standards and strive to achieve the best results in my work. It is important to me that my projects are executed at a high level and meet the requirements of the industry.
+
+My favorite activities are related to technology. I am interested in web development and programming because it gives me the opportunity to create and influence the digital world. I am also passionate about cyber security, because it is an important component of the field of information technologies. Performing tasks related to these areas, I feel satisfaction and challenge, which inspires me to continue professional development.
+
+In teamwork, I strive to achieve common goals while holding high standards for myself and others. I believe that teamwork and knowledge sharing can lead to maximum efficiency and process improvement. The results of our cooperation are important to me, so I always try to work at a high level and contribute to the team.
+
+In short, I am a purposeful and responsible Ukrainian working in the field of information technologies. I strive to improve my skills and knowledge while fulfilling my professional ambitions. My attitude to work is constant professional development and achievement of high standards. Favorite activities related to web development, programming and cyber security. In teamwork, I strive for common goals and try to contribute to the team."
+347|1305235628|cluster11|188.163.114.145|2024-01-17|Meaningless input
+348|6123270713|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I consider myself a responsible and hardworking person. Thanks to my self-employment and work in the hotel business and tourism, I have the opportunity to show my creativity, flexibility and organization.
+
+I like working in the hotel business because it not only allows me to quickly adapt to new situations, but also gives me the opportunity to communicate with a variety of people. I prefer to work in a team where everyone has a role and knows how to collaborate effectively. My attitude towards work is to perform tasks with dedication and attention, always paying attention to details.
+
+I am also interested in developing new competencies and continuous professional growth. Favorite activity is creating a comfortable environment for guests, ensuring their satisfaction and providing quality service. I am passionate about studying different cultures, languages ​​and traditions, which helps me better understand the needs of guests and provide them with an individual approach.
+
+In general, I am a hardworking and positive person who always tries to make maximum efforts to achieve success in the hotel business and tourism."
+349|6236474432|cluster11|0.0.0.0|2024-01-17|I don't see the point
+350|6294231486|cluster11|188.163.114.145|2024-01-17|"I, as a 23-year-old Ukrainian, am looking for a job in the field of social sciences. I would describe my personality as responsible, purposeful and organized. I believe that self-education and constant growth is a key component of both personal development and professional growth.
+
+My attitude to work is serious and professional. I believe in the division of labor, systematicity and perseverance to achieve the set goals. Ready to perform tasks on time and with high quality, focused on the result and able to quickly adapt to new conditions.
+
+My favorite activities are related to the study of social processes, the study of human behavior and the support of social development. Analyzing data, conducting sociological research, developing the implementation of projects in the social sphere - this is what interests me and gives me pleasure.
+
+My desire to find a job in the field of social sciences stems from my great interest in studying society, its problems and opportunities. I am sure that my knowledge, skills and passion will help me to contribute to the social development and improvement of the quality of life of our country."
+351|6304512389|cluster11|46.211.79.73|2024-01-17|"I, as a 22-year-old Ukrainian, am looking for a job in the hotel business and tourism. I will describe my personality: I am open to communication and sociable. I have a high level of organization and the ability to work in a team. European standards of service and quality are also important to me.
+
+My attitude to work is very serious. I always put my responsibilities first and make every effort to achieve results. I have high motivation and perseverance, which allows me to acquire new knowledge and skills. I also know how to effectively manage my time and prioritize tasks to achieve success.
+
+My favorite activities are related to hospitality and customer service. I enjoy interacting with people, helping them solve problems and making their stay enjoyable. I also appreciate the opportunity to learn new cultures and languages, which adds variety and interest to my work.
+
+In this field of employment, I intend to develop and work to achieve stability and high quality of service. I believe I can be a valuable asset to any hotel or travel company and look forward to the opportunity to prove my skills and abilities."
+352|6554098614|cluster11|||
+353|6632593181|cluster11|188.163.114.145|2024-01-17|"I, as a Ukrainian, 21 years old, work full-time in the field of social sciences. Personally, I describe myself as a purposeful, disciplined and responsible person. Thanks to my attitude to work, I constantly strive to achieve high results and perform my duties at the best level. I believe in the importance of my profession and always set myself high standards regarding the quality and efficiency of my work.
+
+My main field of employment in the social sciences is of real interest to me. I like to research and analyze social phenomena, study their impact on society and make my own conclusions. This job gives me the opportunity to expand my knowledge and develop my analytical and research skills.
+
+My favorite work-related activities are conducting research, collecting and analyzing data, and participating in scientific conferences and discussions. I like to work in a team, share my knowledge and experience with colleagues, and learn from them. In addition, I also enjoy teaching and imparting my knowledge to other people, which helps me push my boundaries and learn new ideas.
+
+In general, as a Ukrainian, I am proud of my work in the field of social sciences and devote myself to it with all enthusiasm and enthusiasm. I am ready to work hard to achieve success and further professional growth."
+354|6642297772|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I feel a deep sense of patriotism and love for my country and national culture. I believe that art is an important component of every culture and my actions as a self-employed artist are aimed at promoting Ukrainian art and showing its beauty to the whole world.
+
+I have a very positive attitude towards work. I believe that work in art is not just a profession, but a true vocation. I put all my soul and energy into my work, I always try to improve myself and expand my artistic horizons. I work, learn new techniques, experiment and constantly develop as a professional.
+
+My favorite activities are painting, sculpture and graphics. I have a strong ability to bring my ideas to life on canvas, clay and paper. These types of art give me the opportunity to express my emotions, convey the beauty and depth of Ukrainian culture and nature. In addition, I am also fascinated by contemporary media art forms such as video art or installations, as they allow me to express myself innovatively.
+
+Despite the difficulties that may arise in this field, I closely monitor new trends in world and Ukrainian art, adapt to changes and stay in tune for creative development. Following the path of a self-employed artist, I am always focused, persistent and purposeful, because I believe that my creations can bring a bright note to the global community and give people new emotions and experiences."
+355|6706819003|cluster11|188.163.114.145|2024-01-17|"I am a young Ukrainian, I am 23 years old, and at the moment I am looking for a job in the field of art. My personality can be characterized as creative, inventive and open to new ideas.
+
+I always approach work with great enthusiasm and thorough preparation. I believe that art has an important role in our society, and as an artist, my goal is to embody my ideas and emotions through creative activity. I strive to create something original and unique that will convey my inner feelings and prompt the audience to think.
+
+My favorite activity is painting. I like to freely express my thoughts and feelings through colors and shapes. It is also worth noting that I appreciate collaborating with other artists as it allows me to learn and acquire new skills.
+
+In addition, I am always open to new ideas and styles of art. I strive to expand my knowledge and skills by learning different techniques and experimenting with my works. It allows me to grow as an artist and express my personality more deeply through art.
+
+Regardless of my employment status ""Looking for work"", I am ready to put my best effort and energy into any work related to art. I believe that working together with a highly motivated team and having the opportunity to practice in various artistic directions, I will be able to achieve my goals and contribute to the development of art in Ukraine."
+356|6783160293|cluster11|188.163.114.145|2024-01-17|"I, as a Ukrainian, 21 years old, work part-time in the field of transportation, distribution and logistics. I will describe my personality - I am a responsible, organized and purposeful person. I always set myself high quality standards and try to achieve the set goals without compromise.
+
+I have a very positive attitude towards work. I believe that the entire work process is important and meaningful, and each of my actions has an impact on the overall result. I always strive to do my best and develop professionally. I believe that only by improving your skills and abilities can you achieve success at work.
+
+My favorite activities are related to communication and organization. I enjoy communicating with people, be it clients, suppliers or colleagues. I am also interested in analysis and planning because they help me be better at my job. I also have an interest in continuous improvement of processes and work efficiency, as well as in the introduction of new technologies in the field of transportation and logistics.
+
+In general, I try to be a professional in my field, adhere to the ethics and values ​​of the work environment and always be ready for new challenges and opportunities."
+357|6861727115|cluster11|188.163.114.145|2024-01-17|"I, as an 18-year-old Ukrainian, work full-time in the field of information technology. Describing my personality, I can say that I am a responsible and hardworking person. I always try to fulfill my duties as best as possible and on time. I like to be organized and restrained in my work processes.
+
+Attitude towards work is very important for me. I understand that my future career depends on my professional development and performance. That's why I always try to learn new technologies and keep my finger on the pulse of the latest IT trends. I appreciate the opportunities that my workplace gives me and I always treat my duties with respect and seriousness.
+
+My favorite activities are developing web applications and software, testing new products and improving existing ones. I get real satisfaction when I can bring my ideas to life and see how these products are successful among users. I also like to work in a team, when you can exchange ideas and solve complex tasks together with colleagues. It helps me develop as a professional and expand my knowledge and skills.
+
+In conclusion, as a Ukrainian working in the field of IT, I feel a great responsibility for my work and always treat it with respect and seriousness. My attitude to work is based on the ability to learn, develop and achieve results. My favorite activities are related to software development and testing, as well as collaborating with a team to achieve common goals."
+358|6876811811|cluster11|188.163.114.145|2024-01-17|"I, as a Ukrainian, 18 years old, with the status ""Looking for a job"" in the field of hotel business and tourism, want to share a few words about my personality and attitude to work.
+
+I consider myself a responsible, purposeful and hardworking person. I have strong communication skills that allow me to communicate easily with other people. I have a great desire to learn and develop, always ready to accept new challenges and perform all tasks at a high level.
+
+My attitude to work is very serious. I understand that no work can be done 100% without internal motivation and enthusiasm. I welcome every opportunity to demonstrate my skills and contribute to the achievement of a common goal. For me, a responsible attitude to work means always being punctual, meeting deadlines and performing my duties with the highest quality.
+
+Favorite activities related to the hotel business and tourism. I have always dreamed of working in this field, as it allows me to communicate with people from different countries and cultures and help them to have a comfortable and enjoyable vacation. I like to take care of guests, take initiative in solving their requests and problems. I am also interested in organizing excursions and trips, exploring new places and cultural traditions.
+
+All this makes me confident that I will be able to become a valuable addition to the team in the field of hotel business and tourism. I am ready to invest my efforts and knowledge to ensure a high level of service and satisfaction of customer needs."
+359|6900019748|cluster11|46.211.79.73|2024-01-17|"As a Ukrainian with the status ""Looking for a job"" in the field of marketing and sales, I describe myself as a purposeful and responsible person. I am always looking for improvement and am constantly learning about new trends in the field of marketing to constantly improve my skills.
+
+My attitude to work can be characterized as persistent and responsible. I believe that one should do everything possible to achieve the set goal. I know how to work in a team and feel the urge to achieve success together with the team.
+
+My favorite activities are planning and implementing marketing strategies, analyzing the market and competitors, developing marketing campaigns and interacting with consumers. I enjoy working with people and developing relationships with clients.
+
+I understand that to be successful in the marketing industry, you need to be creative, active and ready for constant self-development. I always set new goals for myself and use every opportunity for growth and progress."
+360|6933953249|cluster11|46.211.79.73|2024-01-17|"As a Ukrainian, I consider myself energetic, hardworking and responsible. I always have a positive attitude to work and a desire to achieve success. I highly value professionalism and always try to learn something new to improve my skills and abilities.
+
+Since I work in hospitality and tourism, I feel comfortable interacting with people and helping them to be satisfied. I love to see smiles on guests' faces and to ensure their comfortable stay. It is important to me to provide a high level of service and perform my duties with great attention to detail. My favorite activities are working with guests, planning events, organizing tours and cooking workshops.
+
+I am always open to new challenges and ready to learn and develop in order to become even more successful in my profession. For me, work is not just a means of earning, but also a path to self-realization, satisfaction and unforgettable experiences."
+361|6984930010|cluster11|188.163.114.145|2024-01-17|wfwfw
+362|392647533|cluster11|5.173.73.38|2024-01-17|like travelling. I like skiing, spending time with my child, learning languages. I worked as an analyst and plan to return to this profession
+363|5195356982|cluster11|91.196.55.140|2024-01-17|Meaningless input
+364|1030066356|cluster11|46.211.228.245|2024-01-17|YNWA
+365|1163188784|cluster11|46.211.120.243|2024-01-17|steep
+366|5832466244|cluster11|91.196.55.140|2024-01-17|me??
+367|1075950373|cluster11|88.154.41.132|2024-01-17|Meaningless input
+368|6045101057|cluster11|188.163.114.145|2024-01-17|"I am a young Ukrainian and I am 24 years old. I am currently looking for a job in the field of transportation, distribution and logistics.
+
+I willingly take responsibility for my actions and always make every effort to achieve the set goal. It is important for me to be an efficient and organized worker, and I always try to show my professionalism at work.
+
+In addition, I have good communication skills, which helps in interacting with colleagues and clients. I am willing to work in a group, but I am also able to work independently and make decisions according to the needs of the project or task.
+
+As for my attitude to work, it is important for me to perform my duties at the highest level of quality. I always try to improve my skills and knowledge to be successful in my field. I believe that work is the key to success and satisfaction in life.
+
+As for my favorite activities, I like communicating with people and finding effective ways to achieve common goals. I also enjoy planning and organizing, so my main field of employment in transportation, distribution and logistics is perfect for me."
+369|6526945831|cluster11|188.163.114.145|2024-01-17|"I, as a 22-year-old Ukrainian who describes myself as self-employed, work in information technologies.
+
+I describe myself as a purposeful and hardworking person. I always set high standards for myself and strive to achieve quality results in my work. I carefully plan my tasks and organize my working hours to ensure efficiency and productivity in my projects.
+
+Regarding my work attitude, I am very positive about my profession in the field of information technology. I am fascinated by the rapid pace of development of this industry and the constant flow of innovations. I am always ready to learn new things and improve my skills to achieve professional growth.
+
+My favorite activities are software development, web design and data analysis. I like to create and see the result of my work in live projects. Also, I am interested in learning new technologies and trends in the field of IT in order to be aware of the latest news and use them in my work.
+
+In general, I am a goal-oriented, hardworking and constantly developing individual who has mastered his skills in the field of information technology and is ready for new challenges in this field."
+370|6593476111|cluster11|188.163.114.145|2024-01-17|"As a 22-year-old Ukrainian working full-time in the field of social sciences, I describe myself as a purposeful, independent and responsible person. I always strive to achieve the set goals and try to achieve the maximum result in my professional activity.
+
+I have a very positive attitude towards work. I believe that work is not only a means of earning money, but also an opportunity to develop as a person, learn new things and implement your ideas. I always treat my work with great responsibility and seriousness, trying to achieve maximum professional development and contribute to social progress.
+
+My favorite activities are researching social phenomena, analyzing data, conducting sociological research and engaging in social projects. I feel satisfied when I can help people, represent their interests and work on the development of social programs that have a positive impact on society.
+
+In addition, I also enjoy teamwork and communication with colleagues, as I believe that the best results can be achieved through joint efforts. I stimulate and inspire other people, encourage development and joint work on important social problems.
+
+Overall, I feel satisfied and happy doing social sciences and working in this field. It allows me to influence society, change it for the better and work to create a fairer and more equal world."
+371|6853225314|cluster11|188.163.114.145|2024-01-17|"As a 23-year-old Ukrainian who is self-employed in the field of marketing and sales, I can say that my attitude to work is very positive and thorough. I always strive to achieve high results and achieve success. I like to take responsibility for my actions and give all my effort and energy to work.
+
+As for my personality, I consider myself goal-oriented, creative and outgoing. I like to explore new ideas and strategies in marketing, as well as constantly enrich my knowledge and skills in this area. I am not afraid of challenges and am always ready for new challenges, which helps me grow as a professional.
+
+My favorite activities are development of marketing strategies, analysis of the market and competitors, planning and conducting sales, as well as communication with customers. I enjoy generating new ideas and developing an overall strategy to achieve success for both my company and clients.
+
+In general, I work with great enthusiasm and self-discipline, always setting myself high goals and responsibility for their achievement. I find satisfaction in my work and am always open to new opportunities and challenges."
+372|6925313846|cluster11|188.163.114.145|2024-01-17|"I am a young energetic person from Ukraine who is ready to start my career in hotel business and tourism. I always set high goals for myself and try to achieve them with great enthusiasm. My strengths include organization, communication and the ability to work in a team.
+
+I always put work first and strive for great achievements. I value responsibility and punctuality, performing my duties always on time and professionally. Thanks to my inner desire for improvement, I am always ready for new challenges and quickly adapt to changes.
+
+I like working in hospitality and tourism because it is a field that gives me the opportunity to meet new people from different countries and cultures. I believe that hospitality and professionalism are important qualities in this field. I am also interested in constantly improving my skills and knowledge in hospitality and hospitality.
+
+My favorite activities are being interactive with guests, providing them with high-quality service and helping them solve their needs. I also like to participate in the organization of various events and programs for guests, which allows me to express my creativity and contributes to the creation of a pleasant atmosphere for guests.
+
+Overall, I believe that my personal qualities, my skills and my work attitude make me an ideal candidate to work in the hospitality and tourism industry. I am ready to invest all my efforts and energy to become a valuable member of the team and help grow the business in this industry."
+373|6432216875|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, at the age of 21, I am self-employed in the field of marketing and sales. The personality can be described as goal-oriented, creative and self-confident. I set high goals for myself and always try to achieve them through persistence and hard work.
+
+My attitude to work is very serious. I strive for the highest standards of quality and efficiency in my work, I am constantly learning and developing in order to be competitive in the market. I value a creative approach to solving problems and am always ready to accept challenges in order to achieve success.
+
+I really like to communicate with people and build interaction with them. I like to analyze the market and its needs, establish sales and marketing strategies, develop creative advertising campaigns and promote a product or service in the market. I feel satisfied when I see positive results of my work and feel recognition from clients and colleagues.
+
+Also, I am interested in data analysis, development of marketing strategies in the digital environment, as well as customer relationship management systems. I like to observe trends in marketing and acquire new knowledge in order to be ahead and satisfy the needs of my clients.
+
+In general, I have a great interest in my duties, I am always ready to make maximum efforts to achieve success in the field of marketing and sales."
+374|6594837997|cluster11|188.163.114.145|2024-01-17|"I am a young Ukrainian, 20 years old, who is currently actively looking for a job in the field of transportation, distribution and logistics. I am very motivated and ambitious, always ready to learn and develop in my professional direction.
+
+My attitude to work is very responsible and purposeful. I always set myself high standards and strive for quality results. I believe in the importance of communication and collaboration with other team members as I believe it helps to achieve common goals and move forward.
+
+My favorite type of activity is related to organization and planning. I enjoy the process of developing optimal routes and using resources efficiently. In addition, I enjoy analyzing data and solving complex tasks that arise in this field. Identifying problems, finding and implementing improvements are an integral part of my work process.
+
+In general, I am passionate about my work and always strive to achieve quality results. I am open to new challenges and ready to learn something new in order to constantly develop as a professional in the field of transportation, distribution and logistics."
+375|6713046063|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I am 18 years old and have the status of self-employed. My main field of employment is science, technology, engineering and mathematics.
+
+Describing my personality, I can say that I am a purposeful and hardworking person. I always set myself high standards and try to achieve maximum quality in my work. My approach to work is systematic and organized. I am also creative and can look at problems from a different angle, look for non-standard solutions and updates.
+
+Regarding my attitude towards work, it is very positive and motivated. I believe that work should bring pleasure and satisfy my intellectual needs. I always face new challenges with enthusiasm and try to find satisfaction in the process of achieving my goals. I feel satisfied when I can use my skills and knowledge to solve complex problems"
+376|6834019857|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I will gladly tell you about my personality, my attitude to work and my favorite activities.
+
+I describe myself as a responsible, organized and purposeful person. I have a great desire to develop professionally in the hotel business and tourism. I believe that every guest should feel comfortable and satisfied during their stay, and I am ready to make every effort to achieve this.
+
+My attitude to work is characterized by conscientiousness, self-motivation and responsibility. I always set myself high standards of work quality and strive to achieve excellent results. I believe that only satisfied and happy employees can create a pleasant and hospitable atmosphere for guests.
+
+My favorite activities are serving guests, solving their needs and providing access to the best services we have to offer. I am also passionate about the effective marketing process and developing new strategies to improve the hotel's reputation and attract new customers. Not only as an employee, but also as a guest, I understand how important it is to have quality service and staff who are always ready to help.
+
+He is interested in continuous self-development and professional development, therefore he is ready to accept challenges and learn new things. I believe that the hotel business and tourism is an important industry for the development of Ukraine and I am looking for an opportunity to contribute to this field."
+377|6969433595|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I consider myself a responsible, hardworking and purposeful person. Even though I work part-time, I put my best effort into my work. I always try to be punctual and organized in my duties.
+
+In retail, where I work, I appreciate the opportunity to work with different people and provide them with quality service. I enjoy solving customer problems and making them happy. I try to always pay attention to details and learn new skills to maintain a high level of service.
+
+Sports, music and learning new things are my favorite activities. I enjoy physical activity, such as soccer, running, or yoga. It helps me relax and conserve energy for work tasks.
+
+Music is also an important part of my life. She helps me relax, find inspiration and focus. I like to listen to different genres of music that suit my mood or the tasks I am solving.
+
+In addition, I am always interested in learning new things and expanding my knowledge. This could be reading books, taking online courses, or researching new topics. I believe that learning is a process that never ends, so I am always open to new opportunities and challenges.
+
+In general, it is important for me to be satisfied with my work and to develop personally. I constantly set goals for myself and work to achieve them. I believe that every day is an opportunity for improvement and progress, and I always try to use it to the fullest."
+378|6301181307|cluster11|188.163.114.145|2024-01-17|"I, as a 24-year-old Ukrainian, work part-time in the field of retail trade. My personality can be characterized as purposeful, responsible and persistent. I always take my work seriously, thanks to which I achieve my goals and always try to fulfill my duties at the highest level.
+
+My favorite type of activity is communicating with clients and providing them with qualified advice. I know how to listen to the wishes and needs of clients, find solutions to problems and help them make the right choice. Satisfied customers are my greatest achievement and I always try to provide them with the best service.
+
+Apart from work, I value my time properly and prefer an active lifestyle. My favorite activities include fitness, traveling, reading and hanging out with friends. I find that entertainment and self-development help me maintain energy and balance in life.
+
+Reviewing my personality and attitude to work, I always strive for self-development and growth as a professional. I believe that every task can be performed at a high level if approached with diligence and responsibility."
+379|6827600189|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian aged 19 and employed in the field of transportation, distribution and logistics, I have the following description of my personality and work attitude.
+
+I consider myself a responsible and persistent person. In my work, I always set myself high quality standards and try to achieve the best results. I am convinced that success and job satisfaction can only be achieved through hard work and constant self-improvement.
+
+I believe that communication and cooperation are important factors in achieving success in any field. Therefore, I always try to build friendly and professional relations with colleagues and partners. I believe that only by supporting each other and working together, we can achieve great results.
+
+As for my favorite activities, I am very interested in logistics and all processes related to the organization and coordination of transportation. I am always fascinated by solving various logistical problems, such as choosing the optimal route, planning the delivery and monitoring its progress. It requires analytical thinking and calculations, as well as quick reactions to unpredictable situations.
+
+In addition, I enjoy working with various types of machinery and equipment used in transportation and logistics. I am always passionate about learning new technologies and methods that help improve operational efficiency and ensure the safety and reliability of transportation.
+
+In general, I have a persistent desire to achieve success, a positive approach to work and enthusiasm for logistical tasks. I am ready to constantly develop and improve my skills to become a qualified and successful specialist in my field."
+380|6497581583|cluster11|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+381|6851732514|cluster11|188.163.114.145|2024-01-17|"I, as a 24-year-old Ukrainian, am self-employed in the field of retail trade. My personality can be described as responsible, purposeful and hardworking. I always treat my work with seriousness and passion, I always try to achieve better results.
+
+I like being self-employed because it gives me the freedom to make my own decisions and influence my own destiny. I believe that self-employment helps to develop one's own talents and skills, and also promotes self-realization.
+
+My favorite activities are related to communication with consumers and helping them choose the right product. I enjoy interacting with people, helping them solve their problems and meet their needs. I also enjoy learning new products and markets, researching demand and implementing new marketing strategies.
+
+Overall, I would consider myself a motivated and hard-working individual who enjoys working in retail and always strives to succeed."
+382|6523687198|cluster11|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+383|6841448395|cluster11|188.163.114.145|2024-01-17|"Personality: I am an energetic, ambitious and creative Ukrainian. I am highly motivated to achieve the set goals and am able to accept responsibility for my actions. I am result-oriented and always ready to put maximum effort into my work.
+
+Attitude to work: For me, work is not just a means of earning, but also an opportunity to develop and reach new heights. I always challenge myself and strive to be the best in my field. I am a dedicated and self-disciplined worker, ready to work both independently and in a team.
+
+Favorite activities: One of my favorite activities is marketing. I am always interested in finding new market opportunities, developing and implementing product promotion strategies. I am passionate about developing brands and creating a recognizable image for a company. Also, I enjoy working with consumers, researching their needs and offering them solutions that will meet their expectations.
+
+In general, I set myself high standards in my work and always strive for success."
+384|6407230208|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I value my national identity, culture and language. I would like to practice Ukrainian traditions and support the Ukrainian community.
+
+Given my self-employed status, I recognize the importance of independence and responsibility. I prefer to work for myself, as it gives me more freedom in choosing professional directions and development. But I also understand the responsibility that arises from such a status and take on the obligation to work efficiently and achieve the set goals.
+
+The main field of my employment is social sciences. I feel a strong interest and desire to understand human relationships, social dynamics and processes that affect our society. My work facilitates the understanding of people's problems and processes in society, and also provides support and solutions to important social issues.
+
+My favorite activities include research, analysis, communication and collaboration with other professionals. I enjoy the opportunity to learn new concepts, develop my own knowledge and skills, and interact with a variety of people. In addition, I find satisfaction in helping to create positive changes in society and influencing the social sphere.
+
+In general, I consider my personality as independent, responsible and hardworking. I always set high standards for myself, work hard, and am willing to take on a job where I can apply my knowledge and skills in the social sciences."
+385|6643625217|cluster11|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+386|6343298492|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I brought with me work culture, responsibility and principles. In addition, I have a high motivation to achieve success and the ability to work in a team.
+
+My attitude to work is very serious. I always strive to achieve the best results and set high goals for myself. I believe in the need for constant self-improvement and professional growth. I consider each task important and perform it with the utmost care and conscientiousness.
+
+My favorite activities are related to transportation, distribution and logistics. I am interested in the organization of goods movement, planning and implementation of effective delivery systems, as well as high-tech solutions in the field of logistics. I see great potential for development in this area and the opportunity to influence the optimization of the supply chain.
+
+What attracts me the most is working with a team, jointly finding solutions and solving problems. I know how to communicate well and work in a team, and I also have skills in working with computer software engineering, which additionally contributes to the effective performance of tasks.
+
+In conclusion, as a Ukrainian, having a high motivation to achieve success and development, I set high goals for myself, which are progressively developed and achieved thanks to diligence and responsibility. My favorite activities are related to transportation, distribution and logistics, and also take into account the ability to communicate effectively and work in a team."
+387|6717837324|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian, I feel a deep sense of patriotism and am proud of my country. In my 23 years, I realized that work is an important aspect of life, and it gives me meaning and satisfaction. I always approach work with great responsibility and discipline.
+
+The main field of my employment is transportation, distribution and logistics. I believe that effective organization and coordination of the movement of goods and transportation is a very important element of the success of any business. I always strive to ensure fast and accurate delivery of goods, using the most efficient methods and resources.
+
+Personality is a combination of my values, character and properties. I consider myself an open, sociable and persistent person. I am always in search of new knowledge and open to improving my skills. I believe in creating a positive work environment in which everyone can develop and achieve their goals. I also think it's important to learn to interact with different types of people and to be open to different views and ideas.
+
+My favorite activities include analysis and planning, organization and control, and communication with colleagues and partners. I enjoy solving complex tasks and important problems because it gives me the opportunity to develop my skills and achieve high results. In addition, I am always happy to participate in projects aimed at improving processes and optimizing the company's work."
+388|5279925641|cluster11|188.163.54.9|2024-01-17|Good
+389|6908861605|cluster11|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+390|1374938939|cluster11|188.163.114.145|2024-01-17|Пвдлоо ихапщот шорпафт хощфипвтхщщуфптхощфвпихщтовфпыщхотпвыхщтшыпиухщотфауммтхщойпуктхщщюмехщштейпуезтшьуемещтшвеййтьещшфевышештыве
+391|6375579324|cluster11|188.163.114.145|2024-01-17|"I, as a Ukrainian, 20 years old and with the status of looking for a job in the field of transportation, distribution and logistics, can describe myself as an energetic and motivated person. I always set high goals for myself and strive to achieve them with great enthusiasm.
+
+My attitude to work is very serious. I understand that to be successful in this field you need to be organized, responsible and attentive to details. I am ready to make maximum efforts to carry out successful transport operations and efficient distribution of goods. I enjoy working in a team, interacting with people and finding innovative solutions to problems.
+
+My favorite activities are planning and organization of logistics processes, coordination of deliveries and interaction with various partners. I am passionate about learning new methods of transportation and implementing technologies that facilitate logistics processes.
+
+In addition, I appreciate the opportunity to improve my skills and knowledge in the field of transportation, distribution and logistics. I am open to learning and ready to work on my professional development. This will allow me to become a valuable employee and succeed in my career."
+392|6470916055|cluster11|188.163.114.145|2024-01-17|"I, as a Ukrainian, 23 years old, self-employed in the field of social sciences, have a multifaceted personality and a positive attitude to work. I am ambitious and motivated, always ready for challenges and new challenges. I have developed communication skills, which allows me to easily communicate with different people and strengthen interaction in the team.
+
+I value my work very much and always set high standards, no matter what field I work in. I believe that work is not just a means of earning, but also an opportunity to develop professionally and contribute to social welfare. I would like to find a job that would allow me to combine my interests in the social sciences with the practical implementation of this knowledge.
+
+My favorite activities are related to the analysis of social problems, research, development and implementation of social programs. I love to conduct analytical research, analyze data and find solutions based on these analyses. I am interested in working with people where I can influence their well-being and promote social justice. I have a desire to develop programs and projects that would improve the quality of life and the social situation in Ukraine.
+
+In general, I am dedicated to my profession, always ready to improve and do my best to achieve my goals in the social sciences."
+393|6890284227|cluster11|188.163.114.145|2024-01-17|Unfortunately, I cannot answer this question.
+394|6956224975|cluster11|188.163.114.145|2024-01-17|"As a 21-year-old Ukrainian with the status of ""Looking for a job"" and a specialization in the field of social sciences, I would describe my personality as independent, creative and goal-oriented.
+
+I have a great interest in social issues and problems, and I always strive to understand social processes and solve pressing problems in society. I believe that work in the field of social sciences has great potential to improve the quality of life of the community and create a more just society.
+
+My attitude to work is responsible and persistent. I am ready to invest my efforts and knowledge in the fulfillment of assigned tasks, as well as to improve my skills and acquire new knowledge in my professional field. In addition, I value teamwork and believe in the importance of cooperation and mutual understanding between colleagues.
+
+My favorite activities are related to research, analysis and determination of causes and consequences of social phenomena. I like to find creative and innovative ways to solve problems and solve complex problems. I also enjoy working with people, listening to their opinions and interacting with them to achieve common goals.
+
+In general, as a Ukrainian, I am ready to help my country and its citizens through my work in the field of social sciences. I strive to make an active contribution to the development and improvement of Ukrainian society, and to implement positive changes that will contribute to the growth of well-being and social progress."
+395|6447277508|cluster11|188.163.114.145|2024-01-17|"I, as a Ukrainian, 19 years old, work part-time in the field of marketing and sales. I will describe my personality and favorite activities.
+
+I consider myself an energetic and persistent person, always open to new challenges and ready to learn. I like to work in a team, I have sociability and the ability to communicate with different people. In addition, I possess an analytical mindset that helps me make informed decisions in marketing strategies and sales.
+
+I have a very positive attitude towards work. I believe that work is not only an opportunity to earn money, but also a chance to develop, grow professionally and feel useful for society. I always set high goals for myself and try to achieve them with maximum effort and energy.
+
+My favorite activities are related to marketing and sales. I like to study the market, analyze consumer behavior and develop strategies that help attract customers and increase sales. I also love interacting with people and seeing how my efforts make it harder to achieve my goals. All this activity brings me satisfaction and inspiration for constant improvement.
+
+In conclusion, as a Ukrainian working in the field of marketing and sales, I have an energetic personality, a positive attitude to work and a passion for marketing strategies and sales. I believe that work is a great chance for development and achievement of set goals"
+396|6810471655|cluster11|188.163.114.145|2024-01-17|"As a 22-year-old Ukrainian, I work full-time in the field of science, technology, engineering and mathematics. One of the main aspects of my personality is that I always set high goals for myself and strive to achieve them.
+
+My attitude to work is very serious and responsible. I believe that work is not just a way of earning money, but also an opportunity to develop, improve and contribute to the development of society. I always keep to my duties and demand the best results from myself.
+
+My favorite activities are conducting scientific research, solving complex problems and developing new technologies. I am always interested in new challenges and opportunities that open before me in this field. This allows me to constantly increase my knowledge and skills and innovate in my work.
+
+In general, my personality is characterized by motivation, persistence and the desire to achieve high results in my professional field. I am proud of my contribution to science, technology, engineering and mathematics, and I am always ready to put in my best efforts to reach new heights."
+397|1080816238|cluster11|46.119.115.157|2024-01-17|Idk
+398|1754373927|cluster11|91.214.209.180|2024-01-17|Alviizilidizhdtz
+399|2091668999|cluster11|46.211.238.188|2024-01-17|Not
+400|5252768701|cluster11|||
+401|5755524587|cluster11|188.163.114.145|2024-01-17|Y vpfizofavzhml famvLZH t waffles zfiamlho
+402|6812869970|cluster11|188.163.114.145|2024-01-17|"I am a young, energetic and ambitious individual with a deep desire for growth and development in the field of transportation, distribution and logistics. I always strive to achieve my goals and am ready to make maximum efforts to achieve success in my professional activities.
+
+My attitude to work is responsible and disciplined. I understand the importance of my role in the effective functioning of logistics processes, therefore I always perform my duties with great care and precision. I value my time and my work schedule, so I always make sure that tasks are completed on time and without fail.
+
+One of my favorite activities is planning and coordinating logistics processes. I believe that effective management of the supply of goods and services is a key factor for the success of any company. I am fascinated by the opportunity to work with complex logistical tasks, find optimal solutions and observe how my actions affect the company's processes.
+
+In addition, I am also interested in innovative technologies in the field of transportation, distribution and logistics. I always follow the latest news and trends in this field and strive to implement the latest solutions that will help improve work efficiency and reduce costs.
+
+In general, I am a hardworking, sociable and highly motivated person who is ready to contribute to the development of the transport and logistics industry of Ukraine. I am ready for new challenges and learning, and I believe that my energy and skills will be useful for any company that shares my values ​​and has a desire to achieve joint success."
+403|6870673259|cluster11|188.163.114.145|2024-01-17|"As a Ukrainian looking for a job in the field of art, I have the following personality traits:
+
+1. Creativity: Art for me is not just a profession, but primarily a way of expressing myself and my feelings. I always have many ideas that I want to realize through art.
+
+2. Discipline: Despite a noticeable free attitude to life, I respect the schedule and know how to work under deadlines. It is important for me to stick to the schedule and fulfill my duties on time.
+
+3. Openness to new ideas: I am always open to acquiring new knowledge and skills. Willing to experiment and try new methods and techniques to develop as an artist.
+
+4. Accuracy and attention: In my field, details are very important. When doing my work, I always try to be as attentive as possible to the smallest details in order to achieve the desired result.
+
+Regarding my approach to work, as an art critic, I am dedicated and passionate about my profession. I feel great satisfaction when I can create something new and fulfill my creative ideas. I am ready to put all my efforts and energy into the work, because I believe that art has a huge power to influence society and can change the world.
+
+My favorite activities are related to creating art. I love to paint, sculpt, photograph and explore new forms of expression. I am also interested in curatorial work and organizing exhibitions. All these activities are a source of inspiration and pleasure for me, and I am always happy to discover new aspects of art.
+
+In general, as a Ukrainian, a young artist and art critic, I aspire to develop in the field of art, work with soul and inspiration, and help make my significant contribution to Ukrainian culture and art."
+404|6461221109|cluster11|104.28.237.18|2024-01-17|"I am a young energetic person from Ukraine who works full-time in the field of marketing and sales. I believe that my approach to work is based on professionalism, responsibility and persistence.
+
+I always try my best to achieve my goal and exceed expectations. I believe in the power of teamwork and am ready to collaborate with colleagues to achieve common goals. Dedication to work for me means being responsible, hardworking and ready to learn constantly.
+
+As I work in marketing and sales, I like to be creative and innovative in my approaches. I feel in my element when I do market analysis, develop sales strategies and plan marketing campaigns. It is important for me to be aware of the latest trends and technologies in this field, and I spend time on constant self-improvement.
+
+In addition to work, I also value personal development and engage in additional activities that contribute to my health and creativity. I like fitness, drawing and reading. They help me find inner harmony and save energy for my professional tasks.
+
+In general, I set high goals for myself and strive for stable development in my career. My personality, attitude to work and favorite activities help me achieve success and be satisfied with what I do."
+405|6773834907|cluster11|104.28.237.18|2024-01-17|"As a young Ukrainian, I am engaged in marketing and sales as a self-employed person. I will describe my personality as a purposeful, energetic and creative individual. I always strive to achieve my goals and put maximum effort into my work.
+
+I have a very responsible attitude to work. I see my profession as an opportunity not only to earn money, but also to develop, learn new things and realize my creative potential. I strive for constant self-improvement, actively study new marketing methods and techniques, follow trends in the field of sales.
+
+My favorite activities are developing marketing strategies, creating advertising campaigns and planning sales. I like to create new ideas, work on their implementation and see the results of my work. I also like to communicate with people, build mutually beneficial relationships with clients and do my best to meet their needs.
+
+In general, I am determined to succeed in my field of employment and am always ready to make every effort to achieve the set goals."
+406|879318569|cluster11|95.130.228.237|2024-01-13|Charismatic, good
+407|831745576|cluster11|46.63.92.50|2024-02-21|Idk
+408|5614654774|cluster11|2a02:2378:1037:6570:84ce:9dc9:77af:7254|2024-02-18|I work in a bank. I like sports.
+409|588886738|cluster11|||
