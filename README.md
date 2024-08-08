@@ -1,4 +1,7 @@
 # BeSample_Demo
+
+**BeSample is a dynamic startup dedicated to developing a platform that empowers scientists to recruit diverse research participants globally. Our task is to develop machine learning-based solutions to identify and mitigate bot activity.**
+
 ![img](./images/01.png)
 ![img](./images/02.png)
 Besample is facing challenges with bot attacks. Our objectives are to identify key features that distinguish real users from bot users and to identify bot users as accurately as possible.
