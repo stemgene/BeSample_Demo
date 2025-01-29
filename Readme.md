@@ -1,79 +1,143 @@
-## Description of documents and code files
+# BeSample_Demo
 
-### Dependencies
+**BeSample is a dynamic startup dedicated to developing a platform that empowers scientists to recruit diverse research participants globally. Our task is to develop machine learning-based solutions to identify and mitigate bot activity.**
 
-I've generated the `requirements.txt` by **conda**, but it's enough if only install all libraries in the first cell of the `final_submit.ipynb`. Sometimes, if you want to read an Microsoft Excel file, `openpyxl` needs be installed.
+![img](./images/01.png)
+![img](./images/02.png)
+Besample is facing challenges with bot attacks. Our objectives are to identify key features that distinguish real users from bot users and to identify bot users as accurately as possible.
 
-In order to generate the ancestor relationship network graph, please install the `pygraphviz`.
+My Methodology for this project is based on the assumption that fraudulent users will participate in the business as much as possible to maximize their fraudulent profits.
 
-### Output files
+Additionally, they will fill out surveys by automated methods to minimize their time and effort costs.
 
-#### user with scores
+The challenges of this project are that the bot users are very realistic, and the "isbot" column was not necessarily accurate, it has time limitations. 
 
-I've assigned the Bot score for every user in this table, `final_result.xlsx`, by the analysis of cluster, IP, registration time, user answer patterns and the similarity scores.
+As shown in the figure, the values of isBot are limited to around January 15. but the registration of over 400 users on March 7 seems abnormal but there's no true values in "isBot" column. Therefore this task is more like a unsupervised learning project
 
-* `user_id`: 5070 user
-* `cluster`: whether this user belongs to a cluster (a cluster means more than 10 users share with one ancestor).
-* `ip` and `IP feature`: whether this user's IP address is normal or same with others
-* `ip_isp`, `ip_org` and `ip_is_proxy`: other features of IP address, but I was not able to extract useful information
-* `created_at`: I labeled peak registration date with colors.
-* `QID11_TEXT_translated`: user answers of QID11 in English
-* `QID11_answer_feature`: patterns of QID11 answers
-* `eyal_QID154_TEXT_translated` and `QID154_answer_feature`: similar to above
-* `same IP and similar answer`: whether this user has same IP and similar answer with other users
-* `peak period`: whether this user registered at the peak date.
-* `other features`: labeled the common ancestor of clusters
-* score columns:
-    * `cluster score`
-    * `IP score`
-    * `create_at_score`
-    * `QID11_score`
-    * `pattern_score_1`: similarity score with patterns1 (example answers of patterns with score <= 0.7)
-    * `pattern_score_2`: similarity score with patterns2 (example answers of patterns with score > 0.7)
-* `white list`: If I have high confidence that this user is a normal person, I will set this value to 0.
-* `total_score`: the total score of whether user is a bot, if the score is higher than 0.7, the user is more likely a bot.
+![img](./images/03.png)
 
-#### Other output files
+My team members have already made brilliant analyses on these datasets, but I am particularly interested in the demography_body and eyal_answers columns in the profile table. The reasons are
 
-I put the some essential and temporary files into the `./outputs` folder. The files below are used in the `final_submit.ipynb`, but I'll submit all output files in case you need it.
+1. They have enough data
 
-* "./outputs/520.xlsx" -- The 1st version of my final result. This file contains `user_id`, `cluster`, `IP`, `created_at`, `QID11_translated`, `QID11_pattern` and the scores. I spent majority time on analyzing this file.
-* "./outputs/profile_QID11" -- only contains the answers of QID11
-* "./outputs/cluster_QID11_answer.csv" -- only contains QID11 answers with 11 cluster users.
-* "./outputs/Qid11_Qid154_answers.xlsx"  -- this file only contain answers of Qid11 and Qid154.
-* "./outputs/translated_all_profile_answers.csv"  --  it's a big dataframe, contains all import user answers with their English translates. 
-* "./outputs/ancestor_relationship.gv.txt" -- for draw the relationship plot
-* "./outputs/came_from_userid.txt" -- contains ancestor relathinship
-* "./outputs/patterns1.txt" -- example answers of patterns with score <= 0.7
-* "./outputs/patterns2.txt" -- example answers of patterns with score > 0.7
+2. Open-ended questions can support my hypothesis that bot users will answer questions as quickly as possible to reduce costs. These answers tend to have certain patterns, such as identical responses.
+
+So I chose Qid-11  and QID154 because these questions related to describe yourself, such as habit and career, This means user responses are long enough, making them suitable for NLP analysis.
+
+Additionally, I also selected these columns to support my analysis
+
+![img](./images/04.png)
+
+Besample's business spans across multiple countries worldwide, so there are various languages. 
 
 
-### Code files
+First is the language
 
-* `final_submit.ipynb`  --  The jupyter notebook file to demograph all data which I showed during the presentation.
+The most commonly used language is Ukrainian, with over 3,400 users, followed by Russian with 530 users.
 
-In order to make the jupyter notebook file more concise, I put some functional code into several python files.
+In order to analyze and input answers into the NLP model, I have translated these languages into English uniformly.
 
-* preprocessing_script.py
-* functions.py
-* analyze_json.py
+![image](./images/05.png)
 
-### Analysis file 
+Then, I analyzed the word frequency, and you can see that adjectives and verbs have a high proportion. please note, some adjectives like "responsible," "creative," and "purpose" are quite suspicious. I will metion these later.
 
-I combined the user answers with clusters, IP and created time, as well as answer patterns. This file contains the analysis of them.
+QID11:
+There are 4500 words happened in user answers. 75% of them showed less than and equal to 5 times. The top 5 frequent words are: "like" 1725, "work" 1413, "love" 857, "responsible" 691 and "person" 552.
 
-I also put the metrics of the scoring mechanism into this Google Doc.
+QID154:2300 words, 75% of them showed less than and equal to 4 times. read243，sports164，travel144,
 
-### Summary
+![image](./images/06.png)
 
-I'm glad to have chance to participate in this project. 
+Next, I found completely identical user answers. 
 
-I found it's hard to identify a single column to determine which user is a Bot or not. Therefore I created a scoring mechanism. 
+This step is easy to find bot users, but there are only 40 same answers in QID11. We couldn't identify bot users only by this feature.
 
-However, there are still some detect in my scoring mechanism. For example, the total score tends to be lower than 0.7, because I didn't set individual pattern or feature as a high score, therefore once multiplied the weight of each faeture, the total score would be reduced.
+![image](./images/07.png)
 
-Another important drawback is these metrics are so subjective, the scores should be set by someone more familiar with business.
+Since directly looking at identical user answers doesn't solve the problem, I need to bring in more columns. 
 
-Finally, there are some interesting tasks that I don't have time to do, such as analyzing the isp of IP address, or train the model to detect AI generated sentences, etc. I'd like to participate the further projects.
+First, I counted each user's referral ancestors and found that multiple users share the same ancestor. I call them as clusters.
 
-If you have any questions, feel free to reach out with me at hdongbos@gmail.com
+![image](./images/08.png)
+
+Then I manually marked 11 clusters with more than 10 users each. we can see clusters 1, 2, 3, and 11 have the most users.
+
+![image](./images/09.png)
+
+Then I examined the user answers within each cluster and found some very similar answer patterns, such as the Ukrainian young person pattern. For these users, I have high confidence in considering them as bot users.
+
+The limitation of relying on referral ancestors to find Bot users is that only 492 users have ancestors, which is less than one-tenth of all users. 
+
+Additionally, since the company needs to spend budget to promote the referral plan, we can't rely solely on this feature in the long run.
+
+![image](./images/10.png)
+
+I also found similar answer patterns using reduplicated IP addresses and peak registering times. 
+
+![image](./images/11.png)
+
+I believe the most significant finding is I identified many user answer patterns.
+
+Please note, These patterns are different from completely identical user responses; 
+
+first, they have tiny differences. such as these 3 sentences, they all have responsible and hardworking person, but there's tiny different between them
+
+If you exam each sentence individually, they all appear normal. However, when you put them together, you'll notice similar patterns. 
+
+Especially when combined with the previously mentioned features such as  registration time, IP addresses, and clusters, you'll see that there is definitely abnormal
+
+So, my conclusion is that someone is using some sort of sentence generation method to automatically generate user answers by inputting keywords or something. But I'm not sure what tools they used, maybe Genarative AI or other ways
+
+![image](./images/12.png)
+
+In order to further analyzing, I identified 27 patterns from all user responses and divided them into 5 suspicious levels. Then assigned weights for each level
+
+The most suspicious pattern, like the Ukrainian young person pattern, etc. 
+
+However, if we rely on manual screening, it not only consumes a lot of manpower but also introduces subjective judgment errors.
+
+Please note that the user answers that fit these patterns don't just contain the same words. They also match in sentence structure, as well as the placement of adjectives and verbs, and other things. 
+
+![image](./images/13.png)
+
+To reduce subjective judgment errors, I introduced sentence similarity from NLP algorithms. 
+
+I selected 118 example sentences from the patterns and calculated the similarity of each user's answer to these examples.
+
+To better consider context and sentence structure, I used a sentence-transformer model based on the BERT architecture.
+
+From the histogram of the calculation results, most user answers have a similarity score between 0.5 and 0.7.
+
+![image](./images/14.png)
+
+I created a scoring mechanism, assigning weights to clusters, IP addresses, registration times, answer patterns, and pattern scores. 
+
+In each feature group has its different point values. 
+
+Finally, I calculated a Bot Score for each user.
+
+As I mentioned earlier, no single column can perfectly determine if a user is a bot. 
+
+The advantage of this scoring mechanism is that it integrates multiple features. Additionally, it allows to add other features, such as demo_speedrun and answer consistency, which my team members have analyzed. 
+
+It also makes it easy to adjust the weights of each feature.
+
+The drawback is that setting the thresholds and weights can be quite subjective.
+
+![image](./images/15.png)
+
+Based on this scoring system, I calculated scores for all users. 
+
+This chart shows the distribution of the scores.
+
+If we set the threshold is 0.7, there will be 755 users.
+
+Compare to the given IsBot values, 150 users, 40% users covered by this prediction
+
+I checked the false negative users, many of them are have certain patterns, such as empty input or IP == unknow, which in my scoring system, I assigned not very high score to them. But in the future, I can consider them to higher suspicious, it will make the model better.
+
+![image](./images/16.png)
+
+Here's the next steps I suggested.
+
+![image](./images/17.png)
