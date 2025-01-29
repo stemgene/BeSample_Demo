@@ -2,7 +2,7 @@
 
 graph TD
 A[input data] --> B[User Demographic Data]
-A --> C[User Response NLP分析]
+A --> C[Analyze hidden patterns by NLP]
 subgraph User Demographic Data
 B --> B1[Ancestors Clusters]
 B --> B2[Register Time]
